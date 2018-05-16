@@ -1,0 +1,41 @@
+/*********************
+PAGE & SECTIONS
+*********************/
+
+.content-wrap{
+  width: 100%;
+    &.topic-wrap{
+      max-width: 1200px;
+    }
+}
+
+.edu-btn {
+
+  &:last-of-type{
+    margin-left: 5px;
+  }
+
+}
+
+
+
+
+/*********************
+FOOTER STYLES
+*********************/
+.footer {
+  .sponsors-nav{
+    ul {
+
+
+
+      li {
+        &.cc-info{
+          margin-top: 0px;
+          max-width: 400px;
+        }
+      }
+    }
+  }
+
+}

@@ -1,0 +1,63 @@
+.edu-btn {
+  font-size: 1.35rem;
+}
+
+/*********************
+HEADER STYLES
+*********************/
+
+.header {
+  .header-inner {
+    nav.main-nav {
+      display: inline-block;
+      font-size: 2rem;
+    }
+  }
+}
+
+/*********************
+EDUSPRINT
+*********************/
+
+.filter-items{
+  width: 80%;
+}
+
+.edusprint {
+
+  .filter-items {
+
+    .icons-wrap{
+
+      .filter-icon{
+        margin-right: 30px;
+        font-size: 1.25rem;
+      }
+    }
+
+  }
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+  .sponsors-nav {
+    ul {
+      li {
+        margin-right: 50px;
+
+        &.cc-info {
+          max-width: 500px;
+        }
+      }
+    }
+  }
+}
+
+.content-wrap{
+    &.topic-wrap{
+      max-width: 1300px;
+    }
+}

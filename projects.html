@@ -1,0 +1,23 @@
+---
+layout: default
+title: Projekte
+permalink: /projects/
+---
+<!-- blog -->
+<div class="row">
+    <section class="section first green col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline white">Projekte</h2>
+                <p class="white">Im Folgenden findest du die Projekte, an denen wir arbeiten. Werde Teil der Vorhaben oder starte dein eigenes Projekt.</p>
+
+        </div>
+        <!-- filters -->
+        <div class="filter-items white">
+            {% include partials/projects-filters.liquid %}
+        </div>
+        {% include partials/project/project-isotope.liquid homepage=false %}
+    </section>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
+</div>
+

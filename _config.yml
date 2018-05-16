@@ -1,0 +1,101 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+email: info@edulabs.de
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: edulabsDE
+permalink: /blog/:title
+staticman_server: 'https://staticman.okfn.de'
+url: "https://edulabs.de"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-bootstrap-sass
+  - jekyll-lunr-js-search
+  #- jekyll-autoprefixer
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - commands.txt
+  - start_serve.bat
+  - start_watch.bat
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          assets/_scss
+  #style:            :compressed
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+  labs:
+    output: true
+    permalink: /:collection/:name
+  dw:
+    output: true
+    permalink: /oer/:title/index.html
+  dw-edit:
+    output: true
+    permalink: /oer/:title/edit
+  project:
+    output: true
+    permalink: /projects/:title/index.html
+  project-edit:
+    output: true
+    permalink: /projects/:title/edit
+  offers:
+    output: false
+
+defaults:
+ -
+   scope:
+     path: "_project"
+   values:
+     layout: project
+ -
+   scope:
+     path: "_project-edit"
+   values:
+     layout: add-project
+ -
+   scope:
+     path: "_dw"
+   values:
+     layout: edusprint-post
+ -
+   scope:
+     path: "_dw-edit"
+   values:
+     layout: add-tool
+
+
+repository: 'okfde/edulabs'
+
+staticman:
+  branch: "master"
+
+title: "FabLab Cottbus e.V."
+description: "Die MitmachWerkstatt in Cottbus"
+logo: "/assets/img/static/edulabs-logo.svg"
+lang: "de_DE"

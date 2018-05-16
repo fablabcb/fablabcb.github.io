@@ -1,0 +1,90 @@
+<footer class="footer section white">
+    <h2>In Kontakt bleiben</h2>
+    <div class="social-nav">
+        <!-- Newsletter -->
+        <ul>
+            <li><div class="btn-wrap">
+                <a class="edu-btn black" href="http://fablab-cottbus.de/mail/subscribe.htm" target="_blank">Newsletter</a>
+            </div></li>
+            <li><div class="btn-wrap">
+                <a class="edu-btn black" href="http://fablab-cottbus.de/mail/subscribe.htm" target="_blank">Mailingliste</a>
+            </div></li>
+        </ul>
+        <br>
+        <ul class="icons-list">
+            <li><a class="icon black" href="mailto:info@fablab-cottbus.de"><i class="icon-paper-plane-empty">&#xf1d9;</i></a></li>
+            <li><a class="icon black" href="https://twitter.com/fablabcb" target="_blank" ><i class="icon-twitter">&#xf099;</i></a></li>
+            <li><a class="icon btn-github black" href="https://github.com/fablabcb/fablabcb.de" target="_blank" ><i class="icon-github-circled">&#xe800;</i></a></li>
+            <li><a class="icon btn-rss black" target="_blank" ><i class="icon-rss">&#xf09e;</i></a>
+                <div id="rsslinks" style="display: none;">
+                    <a href="/blog.xml">Blog RSS</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="sponsors-nav">
+        <ul>
+            <li class="cc-info">
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a>
+           </li>
+        </ul>
+        <div class="foot-links">
+        <a class="conduct simple-btn" href="http://fablab-cottbus.de/images/c/c2/Satzung.vom.22.10.2013.pdf">Vereinssatzung</a>
+        <a class="imprint simple-btn" href="/impressum">Impressum</a>
+        </div>
+    </div>
+</footer>
+
+        <!-- js libs -->
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/isotope.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
+
+        <script src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/mustache.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/date.format.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/URI.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.lunr.search.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/trianglify.min.js"></script>
+
+        <!-- js custom -->
+        <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/main.js?v=2.0"></script>
+
+        <script>
+            jQuery(document).ready(function($) {
+                $('#search-query').lunrSearch({
+                  indexUrl  : '/js/index.json',           // url for the .json file containing search index data
+                  results   : '#search-results',          // selector for containing search results element
+                  template  : '#search-results-template', // selector for Mustache.js template
+                  titleMsg  : '<h1>Search results<h1>',   // message attached in front of results (can be empty)
+                  emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
+                });
+
+               var drawRandomTeaser = function () {
+                    $.each($('.project-teaser.random-image'), function(i,e) {
+                        var pattern = Trianglify({
+                                          height: 200,
+                                          width: $(e).width(),
+                                          cell_size: 30 + Math.random() * 100});
+                        $('.teaser-image', this).html(pattern.canvas());
+                    });
+               }
+
+               $(window).resize(drawRandomTeaser);
+               drawRandomTeaser();
+
+                $('.btn-rss').click(function () {
+                    $('#rsslinks').fadeToggle(200);
+                });
+
+                window.controller = new Controller($);
+                window.controller.init();
+
+            });
+        </script>
+
+</body>
+</html>

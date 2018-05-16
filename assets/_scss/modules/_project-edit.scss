@@ -1,0 +1,91 @@
+#edit-project-form {
+
+  .disabled {
+    display: none;
+  }
+
+  fieldset {
+    border: none;
+    text-align: left;
+
+    a {
+      font-size: 1rem;
+      text-decoration: underline;
+    }
+  }
+
+  .small {
+    font-size: 0.6em;
+  }
+
+  #project-form-short-description-left {
+    color: red;
+  }
+}
+
+.project-desc {
+
+  .project-short-desc {
+  }
+
+  .project-image {
+  }
+}
+
+.project-status {
+  .status-block {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @media screen and (max-width: 320px) {
+      display: block;
+    }
+
+    .status {
+      width: 20%;
+      background: $grey-light;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      @media screen and (max-width: 320px) {
+        width: 50%;
+        font-size: 0.8em;
+        margin: auto;
+        float: none;
+        max-height: 40px;
+      }
+
+      &.completed {
+        background-color: #004dff;
+        opacity: 0.8;
+        color: white;
+      }
+      &.selected {
+        background-color: #004dff;
+        font-weight: bold;
+        color: white;
+      }
+      .label {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        height: 50px;
+        width: 100%;
+        @media screen and (max-width: 320px) {
+          height: 35px;
+        }
+      }
+    }
+  }
+
+  &:after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}

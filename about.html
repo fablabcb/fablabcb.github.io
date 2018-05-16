@@ -1,0 +1,44 @@
+---
+layout: default
+title: About
+permalink: /about/
+info_text: |
+    "Sie stehen allen zur Verfügung, die handwerklich oder künstlerisch in Eigenarbeit aktiv sein wollen - Junge und Alte, Frauen und Männer, Laien und (Halb-) Profis, Künstler und Bastler, Maker und Tüftler, Einzelne und Gruppen sind willkommen. Oft sind Offene Werkstätten aus privater Initiative heraus entstanden, manchmal sind sie Teil von Kultur-, Bürger- oder Jugendzentren, seltener von Unternehmen. Während einige jahrzehntelange Erfahrungen haben, befinden sich andere noch im Aufbau."<br><a href="http://www.offene-werkstaetten.org/seite/offene-werkstaetten">Quelle</a>
+
+---
+<!-- über das projekt -->
+<div class="row">
+    <section class="section first col-xs-24">
+        <div class="content-wrap subpage">
+            <h1 class="section-headline">Über den Verein</h1>
+            <h2 class="blue about-subline">Eine offene Werkstatt für Cottbus und Umgebung</h2>
+            <div class="subpage-content">
+                <p><strong>Was ist das FabLab Cottbus?</strong></p>
+                <p>Wir sind eine bunte Gruppe und teilen uns eine demokratische Werkstatt, die als gemeinnütziger Verein organisiert ist. „fab lab“ steht für fabrication laboratory (zu deutsch „Fabrikationslabor“).
+                    <!-- include floated image -->
+                    {% include partials/content/content-float-image.liquid float="left"
+                    src="/assets/img/static/repairCafe_1.jpg" caption="Bild: Arbeiten während des Repair Cafés" %}
+                     Wir teilen zahlreiche Werkzeuge und Maschinen sowie das Wissen, wie sie eingesetzt werden. Und wir haben großen Spaß dabei! Dadurch möchten wir das Selbermachen fördern und die Freiheit im alltäglichen Umgang mit Technik stärken. Weitere Informationen findest Du über unseren Pressespiegel oder in unserer Entstehungsgeschichte.
+                </p>
+                <!-- include an infobox -->
+                {% include partials/content/content-infobox.liquid float="right" headline="Was sind offene Werkstätten?" copy=page.info_text %}
+                <p><strong>Was kanns du bei uns machen?</strong></p>
+                <p>
+                    Du kannst an Workshops teilnehmen, selbst welche veranstalten oder einfach die Werkstatt nutzen und Dich mit Gleichgesinnten austauschen. Die Werkstatt hat vier Bereiche: eine Holz- und Metallwerkstatt; ein Elektroniklabor, das das Löten und Ätzen von Platinen ermöglicht oder Messen mit Oszilloskop und Multimeter; ein 3D-Druck- bzw. CNC-Fräs-Bereich, wo 3D- und 2,5D-Modelle hergestellt werden können; sowie einen Ort zur Bearbeitung von Textilien, mit Nähmaschine und allem, was man sonst noch braucht. Eine Übersicht über unsere Werkzeuge und Maschinen findest Du in unserer Inventarliste. Neben den Werkstattbereichen gibt es Platz zum arbeiten am Laptop, für gemeinsame Veranstaltungen und Deine laufenden Projekte. Für manche Geräte ist eine vorherige Einführung erforderlich.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- team -->
+    <div class="row">
+        <section class="section grey-light col-xs-24">
+            <div class="content-wrap subpage-content">
+                <h2 id="team" tabindex="-1" class="section-headline">Vorstand</h2>
+            </div>
+            <!-- member teasers -->
+            {% include partials/member-teasers.liquid %}
+        </section>
+    </div>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}

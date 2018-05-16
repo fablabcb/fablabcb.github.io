@@ -1,0 +1,6 @@
+- name: Vereinstreffen
+  url:
+  date: 31.03. // 17 Uhr
+  city: Lab
+  featured: true
+  id: "0001"

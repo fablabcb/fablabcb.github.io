@@ -1,1 +1,107 @@
-Hello World
+---
+layout: default
+---
+<!-- hero -->
+
+<div class="row">
+    <section class="hero home col-xs-24">
+        <div class="logo">
+            <img src="{{ site.baseurl }}/assets/img/static/fablabLogo farbig weiß_main.png"/>
+        </div>
+    </section>
+</div>
+<!-- intro -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap">
+
+            <!-- INSPECT: {{ site.dw | inspect}} -->
+                  <h1 class="regular">Der FabLab Cottbus e.V. - Deine Werkstatt in Cottbus</h1>
+                  <p>Wir teilen uns eine demokratische Werkstatt sowie zahlreiche Werkzeuge und Maschinen und das Wissen, wie sie eingesetzt werden. Dadurch möchten wir das Selbermachen fördern und die Freiheit im alltäglichen Umgang mit Technik stärken.</p>
+              </div>
+              <div class="content-wrap btn-wrap">
+                  <a class="edu-btn black" href="/about" target="_blank">Über die Werkstatt</a>
+              </div>
+    </section>
+</div>
+
+<!-- Angebote -->
+<div class="row">
+    <section id="labs" class="section green col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline white">Möglichkeiten</h2>
+            <p class="white">Besuche unsere Veranstaltungen, Öffnungszeiten oder werde Teil des Vereins. Wir sind auf verschiedenen Ebenen aktiv:</p>
+        </div>
+        <!-- teasers -->
+        {% include partials/offer-teasers.liquid %}
+    </section>
+</div>
+
+<!-- Einblicke -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap topic-wrap">
+            <h2 class="section-headline">Einblicke</h2>
+            <h3 class="about-subline blue">Das FabLab engagiert sich in den folgenden Bereichen</h3>
+            <div class="col-md-12">
+                <img class="topic-img" src="/assets/img/static/Global_Open_Educational_Resources_Logo.svg"/>
+                <span class="caption align-right"><a href="/about/OER#lizenz">Zum Lizenzhinweis</a></span>
+            </div>
+            <div class="col-md-12 subpage-content">
+                <ul class ="topic-list">
+                    <li><strong>Open Source:</strong><br>edulabs unterstützt innovative Formate, die Medienbildung fördern und frei nachnutzbar sind.</li>
+                    <li><strong>Handwerk:</strong><br>Wir fördern partizipative und kompetenzorientierte Bildungsformate.</li>
+                    <li><strong>Offene Kultur:</strong><br>Wir helfen bei der Verbreitung und Entwicklung von frei lizenzierten Bildungsmaterialien <a href="/about/OER" target="_blank">...Mehr</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="content-wrap topic-wrap btn-wrap" style="clear: both;">
+            <a class="edu-btn black" href="/about" target="_blank">Über die Werkstatt</a>
+        </div>
+    </section>
+</div>
+
+<!-- blog -->
+<div class="row">
+    <section class="section green col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline white">Aus dem Blog</h2>
+        </div>
+        <!-- blog teasers -->
+        <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
+            <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
+
+            {% assign posts = site.posts %}
+            {% for post in posts limit:12 %}
+                {% if post.visible == 0  %}
+                {% else %}
+                  {% assign categories = post.categories | join:', ' %}
+                  {% assign categories = "#" | append:categories %}
+                  {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn white" href="/blog" target="_blank">Alle anzeigen</a>
+        </div>
+    </section>
+</div>
+
+<!-- Projekte und Initiativen -->
+<div class="row">
+    <section class="section white col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Projekte</h2>
+            <p>Im Folgenden findest du die Projekte, an denen wir arbeiten. Werde Teil der Vorhaben oder starte dein eigenes Projekt und gewinne Unterstützende.</p>
+        </div>
+        <div class="row">
+            {% include partials/project/project-isotope.liquid homepage=true %}
+        </div>
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn black" href="{{ site.baseurl }}/projects" target="_blank">Weitere Projekte</a>
+        </div>
+    </section>
+</div>
+
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}

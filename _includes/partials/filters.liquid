@@ -1,0 +1,28 @@
+{% if site.data.digitalen_welt.top-kmk != "" %}
+<h4 class="filter-items-headline">NACH KOMPETENZEN FILTERN:</h4>
+{% else %}
+<h4 class="filter-items-headline">NACH KATEGORIE FILTERN:</h4>
+{% endif %}
+{% for post in posts %}
+    {% assign post_categories = post.categories | join:'|' | append:'|' %}
+    {% assign rawcategories = rawcategories | append:post_categories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+    {% if category != "" %}
+        {% if categories == "" %}
+            {% assign categories = category %}
+        {% endif %}
+        {% unless categories contains category %}
+            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+<div data-filter-group="kmk" class="filter-items-inner col-xs-24">
+  {% for kmk in site.data.digitalen_welt.top-kmk %}
+    <a href="/" data-filter=".top-kmk-{{ forloop.index }}" class="filter-item">{{kmk[1]}}</a>
+  {% endfor %}
+</div>
