@@ -528,7 +528,23 @@ HEADER STYLES
             color: $primary-color;
           }
         }
-
+        &.current-featured{
+          a{
+            color: $white;
+            background-color: RGBA(170, 0, 0, 1);
+          }
+          &:hover, &:focus{
+            font-weight: bold;          }
+        }
+        &.featured{
+          a{
+            color: $white;
+            background-color: RGBA(0, 0, 128, 1);
+          }
+          &:hover, &:focus{
+            font-weight: bold;
+          }
+        }
         a{
 
           @include transition(color .25s ease);
