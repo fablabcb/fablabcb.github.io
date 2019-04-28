@@ -9,8 +9,8 @@ twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
 header_background: /assets/img/blog/2018/Musikbox_small.jpg
 image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
-
 ---
+
 Der Frühling bahnt sich so langsam an und damit auch die Zeit im Freien! Dann heißt es wieder: Musik aufdrehen - zumindest für die, die einen mobilen Lautsprecher besitzen. Weil die meisten keine ~150€ für einen Bose SoundLink ausgeben, quäkt es nur so durch Parks und Einkaufspassagen. Ich bin von dieser Idee, überall seine Musik aufzudrehen, nicht sonderlich überzeugt. Dafür aber forderte es mich heraus, eine Box mit gutem Sound und günstigem Preis zu bauen.
 
 Hier ist also das Ergebnis: Für knapp 100€ Materialkosten könnt ihr die mobile Box nachbauen und erhaltet einen echten HiFi-Latsprecher, den ihr für jede Reise einpacken könnt. Hier geht es zur <a href="https://www.instructables.com/id/HiFi-Music-Box-With-Bluetooth/" target="_blank">Bauanleitung</a>.
