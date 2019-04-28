@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Lasst uns die Beziehungskrise mit Technik überwinden"
-teaser: "Arbeitstitel:Max macht Eigenwerbung"
-teaser_img_src: assets/img/blog/2018/November/Screenshot-2018-11-19-13.51.17-1080x675.png
+title: "schniedel"
+teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
-twitter_large_img: assets/img/blog/2018/November/Screenshot-2018-11-19-13.51.17-1080x675.png
-header_background: assets/img/blog/2018/November/Screenshot-2018-11-19-13.51.17-1080x675.png
-image: assets/img/blog/2018/November/Screenshot-2018-11-19-13.51.17-1080x675.png
+twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
+header_background: /assets/img/blog/2018/Musikbox_small.jpg
+image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
