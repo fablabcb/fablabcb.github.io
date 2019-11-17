@@ -2,12 +2,12 @@
 layout: post
 title: "Code Week: Wir sind mit 5 Workshops dabei"
 teaser: "Progammieren, Elektronik, Analyse - die EU Code Week im FabLabCB"
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
 featured: true
-categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+categories: Events
+twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
+header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
+image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
 author: Maximilian Voigt
 
 ---

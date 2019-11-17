@@ -2,12 +2,12 @@
 layout: post
 title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
 teaser: "Auf dem Weg zu einem vollständigen Open Source Hardware-System "
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
 featured: true
 categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+image: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
 author: Maximilian Voigt
 
 ---

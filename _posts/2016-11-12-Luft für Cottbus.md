@@ -2,12 +2,12 @@
 layout: post
 title: "Luft für Cottbus"
 teaser: "Unser Eigenbau einer solarbetriebenen Fahrradpumpstation"
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+teaser_img_src: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 featured: true
 categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+twitter_large_img: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+header_background: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+image: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 author: Maximilian Voigt
 
 ---
@@ -18,4 +18,4 @@ ist und somit stetig das Aufpumpen von Fahrradreifen ermöglicht. Das Projekt is
 gemeinschaftsorientierte Art zu Arbeiten: Während sich die Einen um die Organisation gekümmert haben, steckten Andere ihr 
 Wissen über das Schweißen und Arbeiten mit elektrotechnischen Bauteilen in das Gerät. Auch wurden vorwiegend Materialien recycelt. 
 Weitere Informationen zu diesem Projekt sind
- im <a href="http://fablab-cottbus.de/index.php/Solarbetriebene_Fahrradpumpstation" target="_blank">Wiki-Eintrag</a> zu finden. 
+ im <a href="https://fablab-cottbus.de/index.php/Solarbetriebene_Fahrradpumpstation" target="_blank">Wiki-Eintrag</a> zu finden.

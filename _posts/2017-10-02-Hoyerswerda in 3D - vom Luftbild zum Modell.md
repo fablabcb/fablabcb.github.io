@@ -2,12 +2,12 @@
 layout: post
 title: "Hoyerswerda in 3D - vom Luftbild zum Modell"
 teaser: ""
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_3D-1080x675.jpg
 featured: true
 categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_3D-1080x675.jpg
+header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_3D-1080x675.jpg
+image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_3D-1080x675.jpg
 author: Diana Schäfer
 
 ---

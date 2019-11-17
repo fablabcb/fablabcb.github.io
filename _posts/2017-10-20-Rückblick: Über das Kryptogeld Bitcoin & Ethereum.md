@@ -2,12 +2,12 @@
 layout: post
 title: "Rückblick: Über das Kryptogeld Bitcoin & Etherum"
 teaser: "Workshop zur Kryptowährungen anlässlich der EU Code Week"
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
 featured: true
-categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+categories: Events
+twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
 author: Hannes Wenzel
 
 ---

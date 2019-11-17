@@ -2,12 +2,12 @@
 layout: post
 title: "Beete für den Stadtgarten - so wars"
 teaser: "Aktionstag (20. Juni 2018) im Stadtgarten Cottbus. Das Fablab Cottbus hilft beim Hochbeetbau"
-teaser_img_src: /assets/img/blog/2018/Juli/stadtgartentitel.jpg
+teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/07/stgarten3-1080x675.jpg
 featured: true
 categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Juli/stadtgartentitel.jpg
-header_background: /assets/img/blog/2018/Juli/stadtgartentitel.jpg
-image: /assets/img/blog/2018/Juli/stadtgartentitel.jpg
+twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/07/stgarten3-1080x675.jpg
+header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/07/stgarten3-1080x675.jpg
+image: http://blog.fablab-cottbus.de/wp-content/uploads/2018/07/stgarten3-1080x675.jpg
 author: Jannik Schilling
 
 ---
