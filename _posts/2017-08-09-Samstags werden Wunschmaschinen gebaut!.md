@@ -3,7 +3,7 @@ layout: post
 title: "Samstags werden Wunschmaschinen gebaut"
 teaser: "Ab heute steht unsere Werkstatt jeden Samstag auch für Mitglieder offen."
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
@@ -17,4 +17,3 @@ Noch bevor die Werkstatt öffnete, warteten schon drei Bauwillige (einschließli
 
 Während sie bauten, kamen Studierende sägen, nähen, fräsen, schweißen und programmieren. Es gab auch interessierte Besucher*innen von außerhalb: Ein Autoschlosser aus Burg brachte seinen Sat-Receiver mit defektem Netzteil und fragte um Rat.
 <p style="text-align: left;">Wir freuen uns jetzt schon auf den nächsten Samstag, wenn es wieder heißt: Alles klar zum Wunschmaschinen bauen? Auch wenn sie sich nur wieder abschalten sollen ;)</p>
-<p style="text-align: center;"><iframe class="giphy-embed" src="https://giphy.com/embed/Eb4HAUeQrq608" width="480" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

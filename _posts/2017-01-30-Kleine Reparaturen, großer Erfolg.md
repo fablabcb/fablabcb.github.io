@@ -3,7 +3,7 @@ layout: post
 title: "Kleine Reparaturen, großer Erfolg"
 teaser: ""
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg

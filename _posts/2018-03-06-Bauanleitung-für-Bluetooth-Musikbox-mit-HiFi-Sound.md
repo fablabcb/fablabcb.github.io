@@ -3,7 +3,7 @@ layout: post
 title: "Ganz leicht: Bluetooth Musikbox selbst bauen"
 teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
 header_background: /assets/img/blog/2018/Musikbox_small.jpg

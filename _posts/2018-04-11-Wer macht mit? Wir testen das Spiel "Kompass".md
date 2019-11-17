@@ -3,7 +3,7 @@ layout: post
 title: "Wer macht mit? Wir testen das Spiel 'Kompass'"
 teaser: "Computerspiele sind voll 2017 – Brettspiele sind wieder angesagt!"
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/04/spielbrett-1024x1024.jpeg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/04/spielbrett-1024x1024.jpeg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/04/spielbrett-1024x1024.jpeg

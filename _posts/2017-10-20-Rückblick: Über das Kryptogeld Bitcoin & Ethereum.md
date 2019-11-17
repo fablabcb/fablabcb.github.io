@@ -3,7 +3,7 @@ layout: post
 title: "Rückblick: Über das Kryptogeld Bitcoin & Etherum"
 teaser: "Workshop zur Kryptowährungen anlässlich der EU Code Week"
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
@@ -19,7 +19,7 @@ Natürlich könnte man hier bereits loslegen, Bitcoin nutzen und darauf vertraue
 
 Dabei entsponn sich bereits während des Vortrags eine rege Diskussion. Fragen wurden sofort und ausführlich beantwortet. Sicherlich haben wir uns nicht immer an den roten Faden gehalten, aber der Erkenntnisgewinn war enorm. So mäanderten wir durch die Kryptologie (asymmetrische Verschlüsselung, Streuwerte), Informatik (die Blockkette als Datenbank und unendliches Transaktionslogbuch), Mathematik (Einwegfunktionen, Netztopologien) und Wirtschaftswissenschaften (Wertanlage, Spekulation, intrinsischer Wert von Bitcoin).
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gc2en3nHxA4?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gc2en3nHxA4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Ebenso ging es im zweiten Teil um Ethereum weiter. Darüber können nicht nur sogenannte <em>Ether</em>, sondern auch beliebige andere Währungen den Besitzer wechseln. Man kann hier die Idee sogar noch weiterspinnen und die Transaktion von eigenen Marken (engl. <em>token</em>) über Ethereum abwickeln. Eine Idee wäre etwa, Engagement für das Fablab (Aufräumen der Werkstatt, Abwaschen usw.) mit eigenen Marken zu entlohnen, wobei die Transaktion dezentral über Ethereum geschähe. Die Verträge hierfür wären als Programm unmanipulierbar in der Blockkette hinterlegt. Dieses Szenario haben wir auch einmal in einem Testnetz durchgespielt.
 

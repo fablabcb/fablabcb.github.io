@@ -3,7 +3,7 @@ layout: post
 title: "Vernetzungstreffen: Das war das meetup der Brandenburger Maker Spaces"
 teaser: ""
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/maker_meetup.jpg
-featured: true
+featured: false
 categories: Netzwerk
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/maker_meetup.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/maker_meetup.jpg

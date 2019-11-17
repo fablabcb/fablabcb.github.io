@@ -3,7 +3,7 @@ layout: post
 title: "Unterstützt unser Projekt 'Making Lausitz'"
 teaser: "Mit Making Lausitz wollen wir bei der Google Impact Challenge abräumen und den Lausitzer Strukturwandel gestalten"
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/Logo_lang_wei%C3%9F-auf-schwarz-1080x675.png
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/Logo_lang_wei%C3%9F-auf-schwarz-1080x675.png
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/Logo_lang_wei%C3%9F-auf-schwarz-1080x675.png

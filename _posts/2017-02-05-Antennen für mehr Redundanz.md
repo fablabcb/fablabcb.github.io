@@ -3,7 +3,7 @@ layout: post
 title: "Antennen für mehr Redundanz"
 teaser: ""
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/02/11-1080x675.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/02/11-1080x675.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/02/11-1080x675.jpg
