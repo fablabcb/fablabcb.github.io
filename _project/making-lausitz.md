@@ -7,7 +7,7 @@ short-desc: >-
   Das Projekt bringt junge Erwachsene und Senioren zusammen, um die Lausitzer Region gemeinsam zu gestalten. In Workshops lernen sie Werkzeuge und Maschinen kennen, die sie in generationenübergreifenden Teams zum Lösen spannender Probleme einsetzen.
 needs: ""
 content: ""
-link: 'http://making-lausitz.de/'
+link: ''
 contact-name: Maximilian Voigt
 contact-email: m.voigt@fablab-cottbus.de
 date: '2018-06-06T12:40:22.862Z'
