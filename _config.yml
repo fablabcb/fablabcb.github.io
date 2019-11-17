@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: info@edulabs.de
+email: info@fablab-cottbus.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: edulabsDE
+twitter_username: fablabcb
 permalink: /blog/:title
-staticman_server: 'https://staticman.okfn.de'
-url: "https://edulabs.de"
+url: "https://fablab-cottbus.de"
 
 # Build settings
 highlighter: rouge
@@ -90,7 +88,7 @@ defaults:
      layout: add-tool
 
 
-repository: 'okfde/edulabs'
+repository: 'fablabcb'
 
 staticman:
   branch: "master"
