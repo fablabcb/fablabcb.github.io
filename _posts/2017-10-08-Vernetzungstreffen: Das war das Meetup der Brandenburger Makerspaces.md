@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Vernetzungstreffen: Das war das Meetup der Brandenburger Makerspaces"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+title: "Vernetzungstreffen: Das war das meetup der Brandenburger Maker Spaces"
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,6 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Am Freitag, den 6.10., hat ein Treffen von Brandenburger Makerspaces stattgefunden. Dabei waren Interessierte sowie VertreterInnen der <a href="https://machbar-potsdam.de/" target="_blank" rel="noopener">machBar</a> in Potsdam, des <a href="http://vinnlab.th-wildau.de/" target="_blank" rel="noopener">ViNN:Labs der TH Wildau</a>, der <a href="https://zhq.th-brandenburg.de/" target="_blank" rel="noopener">TH Brandenburg</a>, von <a href="http://jfvnet.de/" target="_blank" rel="noopener">cleverinside</a> aus Lübbenau, des <a href="https://fablab.berlin/de/" target="_blank" rel="noopener">FabLabs Berlin</a> sowie Cottbus. In Julians <a href="https://docs.google.com/presentation/d/1rt9VsZAFNJgP0SOR2WNzV3yfz9GPX3lqCxaWsJCHEnA/edit?ts=59d7cdc4#slide=id.g204c81e623_0_48">Präsentation</a> gab es einige Einführende Informationen zum Thema FabLab, Hackersapce und Makerspace sowie Einblicke in die Arbeitsweise des Fab Labs Berlin.
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
-
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+Das Ziel ist es, ein Brandenburger Netzwerk von regionalen Makerspaces und Aktiven aufzubauen, um in Zukunft Projekte gemeinsam zu starten und Interessen zu vertreten. Als erster gemeinschaftlicher Auftritt ist ein Stand auf der Maker Faire Berlin 2018 geplant. Das nächste Treffen soll auf der <a href="https://maker-faire.de/news/2017/10/im-dezember-die-conrad-mini-maker-faire-in-berlin/" rel="noopener" target="_blank">mini Maker Faire Berlin</a>, am 3.12., stattfinden. Auch wurde eine Kommunikationsplattform geschaffen. Wer aufgenommen werden möchte, meldet sich einfach über die Info-Adresse des <a href="http://blog.fablab-cottbus.de/" rel="noopener" target="_blank">FabLabs Cottbus</a>.

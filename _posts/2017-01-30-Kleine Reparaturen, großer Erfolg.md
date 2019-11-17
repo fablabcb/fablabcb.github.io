@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kleine Reparaturen, großer Erfolg"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,9 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
-
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
-
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+<p style="text-align: justify;">Jeder war wohl schon einmal in dieser Situation: Ein technischer Gegenstand, der das eigene Leben lange begleitet hat, gibt plötzlich den Geist auf. Nicht nur, dass dadurch bekannte Abläufe gestört werden, nein, oft steht der einstige Besitzer auch vor dem Patienten und ärgert sich. Darüber, dass hier etwas weggeworfen werden muss, was mit vermeintlich wenigen Handgriffen noch funktionieren könnte. Aber auch darüber, dass der Zwangsgriff zum Geldbeutel bevorsteht. Denn oft fehlt das Wissen und die Dokumentation, um solche Probleme selbst lösen zu können.</p>
+So ging es auch einem Herrn, der in unser Repair-Café kam. Seine Bose Musikanlage aus den 90ern (<a href="http://worldwide.bose.com/productsupport/en_us/web/ls30_series1/page.html" target="_blank">Lifestyle</a> Reihe), die einmal viel Geld gekostet hatte, gab kein Lebenszeichen mehr von sich: Erst hatte sich der CD-Wechsler verabschiedet, dann ging plötzlich gar nichts mehr. Als Laie wandte er sich an den Bose-Service. Der schilderte jedoch milde, dass die Reparatur nicht möglich sei.
+<p style="text-align: justify;">So nahm es der Besitzer kurzerhand selbst in die Hand, organisierte jemanden, der ihm das Steuergerät abbaute und brachte es in ein einschlägiges Reparaturgeschäft. Doch auch da konnte ihm nicht geholfen werden. Die Reparatur sei zu aufwändig. So verschlug es ihn schlussendlich zu uns. Ihm Rahmen von zwei Sitzungen und durch den Einsatz verschiedener Reparaturbegeisterter konnten die Fehler gefunden und behoben werden. Letztendlich waren es ein bisschen Kleber an einem Zahnrad und ein paar neue Kondensatoren am Spannungsteiler, die dem Gerät ein neues "Leben" gaben. So konnte ein ansonsten tadelloses System wieder zum Einsatz gebracht und dadurch eine menge Müll vermieden werden.</p>
+<p style="text-align: justify;">Repair-Cafés sind Orte, wo sich die Zeit für solche Probleme genommen werden kann. Denn hier geht es nicht darum, einen Service anzubieten, der sich rechnen muss. Sondern es geht darum, Probleme gemeinsam zu verstehen und dadurch zu lernen. Zu lernen, solche Probleme einmal selbst lösen zu können und dadurch mehr Freiheit im alltäglichen Handeln mit Technik zu erlangen.</p>
+<strong>Für betroffene ähnlicher Probleme:</strong>
+In CD-Laufwerken passiert es häufig, dass durch Materialermüdung der Antrieb versagt. Auch in Kassettenlaufwerken sind es oft nur ausgeleierte Gummis, die die Kraftübertragung stören. Ebenfalls häufig gehen ganze Geräte gar nicht mehr, weil sich die Spannungen leicht verändert haben, da aufgeblähte Kondensatoren nicht mehr ihre ursprünglichen elektrischen Eigenschaften aufweisen. Beide Problembereiche lassen sich relativ leicht entdecken und beheben. Kommt einfach zum nächsten Repair-Café und wir schauen uns das Problem gemeinsam an. Auch freuen wir uns über Reparaturbegeisterte, die mit uns ihr Wissen teilen möchten. Denn auch wir wissen eigentlich nichts :)

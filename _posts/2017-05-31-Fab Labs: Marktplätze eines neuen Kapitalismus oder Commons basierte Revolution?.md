@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fab Labs: Marktplätze eines neuen Kapitalismus oder Commons basierte Revolution"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+title: "Fab Labs: Marktplätze eines neuen Kapitalismus oder Commons basierte Revolution?"
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,15 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Was sind Maker-, Hacker- und Fab-Spaces? Und welche Rolle spielen sie bei der Veränderung gesellschaftlicher Prozesse? Antworten auf diese Fragen hängen von dem ab, der gefragt wird und könnten unterschiedlicher nicht sein. Meistens kommen allerdings zwei Tendenzen zum Vorschein:
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+Einerseits wird die Rolle von offene Werkstätten als Innovationsmotor, als eine neue Art kapitalistischen Wirtschaftens betont. Andererseits liegt der Fokus auf der Demokratisierung der Herstellung, auf dem kollaborativen Arbeiten in den Werkstätten, in denen Wissen, Werkzeuge, Maschinen und Projekte unter freien Lizenzen miteinander geteilt werden.
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
+Offene Werkstätten müssen diese Aspekte diskutieren, um das eigene Selbstverständnis zu reflektieren und ihr volles Potenzial entfalten zu können.
 
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+&nbsp;
+<ul>
+ 	<li>Dieser <a href="https://blog.p2pfoundation.net/essay-day-making-smart-city-emergence-makerspaces/2017/05/30" target="_blank" rel="noopener noreferrer">Essay von Vasilis Niaros</a> fasst den Diskurs auch für Einsteiger gut zusammen.</li>
+ 	<li>Ebenfalls einen Überblick, aber einen sehr viel breiteren, liefert <a href="http://www.transcript-verlag.de/978-3-8376-2382-6/fablab" target="_blank" rel="noopener noreferrer">dieses Buch</a> (Bei Lektüre-Bedarf bitte melden).</li>
+ 	<li>Potenziale für den Bildungsbereich behandelt <a href="https://www.researchgate.net/publication/277928106_The_Maker_Movement_in_Education" target="_blank" rel="noopener noreferrer">dieser Essay</a>.</li>
+</ul>

@@ -11,19 +11,8 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Seit dem 30.11.2016 verlagert das FabLab Cottbus jeden Mittwoch für eine Stunde seine Werkstatt in die <a href="http://www.nevoigt-grundschule.de/" target="_blank" rel="noopener">Wilhelm-Nevoigt Grundschule Cottbus</a>. Dort lernten die Schüler*innen Magnetismus, Strom sowie Spannung kennen und bauten sowohl kleine Laufroboter als auch Elektromotoren. Den Ablauf der Workshops sowie die Erfahrungen, die Nanu Frechen, Jannick Schilling und Maximilian Voigt dabei gemacht haben, könnt ihr in unserem <a href="http://fablab-cottbus.de/index.php/Workshop_an_der_Wilhelm-Nevoigt_Grundschule" target="_blank" rel="noopener">Wiki-Eintrag über das Projekt</a> nachlesen.
+In Zukunft möchten wir das Angebot für Schüler*innen ausweiten und Workshops in unseren eigenen Räumen anbieten. Wenn Interesse an diesem Vorhaben besteht, schreibt uns gerne!
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
-
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+<strong>Einer der BEAM-Roboter, der im Rahmen des Workshops gebaut wurde.</strong>
+<div class="video"><iframe src="https://www.youtube.com/embed/ew7AqRCvls8?ecver=1" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>

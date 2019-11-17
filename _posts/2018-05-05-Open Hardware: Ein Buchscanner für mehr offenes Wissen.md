@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+teaser: "Auf dem Weg zu einem vollständigen Open Source Hardware-System "
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,18 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Mit der Unterstützung der Projekte <a href="https://edulabs.de/" rel="noopener" target="_blank">edulabs.de</a> und <a href="https://fragdenstaat.de/" rel="noopener" target="_blank">FragDenStaat.de</a> bauen wir mit der <a href="https://machbar-potsdam.de/" rel="noopener" target="_blank">machBar Potsdam</a> einen Open Source Hardware Buchscanner. Die Initiative basiert auf dem <a href="https://www.bookscanner.de/der-buchscanner/" rel="noopener" target="_blank">mäqädat-Projekt</a>. Dieses wiederum ist an die Arbeit von <a href="http://www.prismscanner.org/" rel="noopener" target="_blank">Dany Qumsiyeh</a> angelehnt, der den von ihm erfundenen <a href="https://linearbookscanner.org/" rel="noopener" target="_blank">linearen Buchscanner</a> (<a href="https://www.google.com/patents/US8711448" rel="noopener" target="_blank">US Patent 8711448</a>) zum <a href="https://code.google.com/archive/p/linear-book-scanner/" rel="noopener" target="_blank">Nachbau oder für Veränderungen freigegeben</a> hat.
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+Die OKF nimmt sich damit dem Thema Open Source Hardware an, das durch die Erfolgsgeschichte offener Software-Projekte immer stärker in den Fokus gerät. Im Unterschied zur Software steht entwickelte Hardware nicht vom ersten Moment an unter dem Urheberrecht. Erst durch das Patent wird die Vervielfältigung von Hardware geschützt. Deswegen ist das Thema der freien Lizenz erst im zweiten Schritt spannend: wenn es zur Dokumentation kommt. Sie gibt Einblicke in die Funktionen eines Gerätes und ermöglicht den Nachbau. Open Hardware ist also in erster Linie ein Thema frei lizenzierter und zugänglicher Produktionsinformationen.
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
+Der geplante Scanner bewegt ein Buch mit der Innenseite nach unten über eine Scanneinheit, um Bilder einzelner Buchseiten zu erfassen. Mit einem Sauger sowie einem Trennelement blättert das System automatisch weiter. Das Video zeigt diesen Ablauf am Beispiel des mäqädats.
 
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
+<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iELNi03-Ef8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><center>Der mäqädat in Aktion</center>
 
-    — Jakob Roschka (@jakobroschka) 18. November 2018
+Die Projektgruppe möchte die Dokumentation des mäqädat-Scanners vervollständigen und ihn zu einem vollständigen Open Source Hardware-System weiterentwickeln. Aktuell ist der einfache Nachbau des mäqädat nicht möglich. Neben einer lückenlosen Anleitung fehlen die Software für die Ansteuerung des Scanners sowie Konstruktionszeichnungen einiger Anbauteile.
 
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
+<strong>Mitmachen</strong> 
+Wer sich an dem Projekt beteiligen oder den aktuellen Stand verfolgen möchte, kann an den regelmäßigen <a href="https://hackmd.okfn.de/buchscanner_calldoku" rel="noopener" target="_blank">Calls zum Projekt</a> teilnehmen.
+Wir suchen z.B. Personen, die sich damit beschäftigen, wie man den Scanner aus Nutzersicht bedienen möchte.
+Für die <a href="https://github.com/fablabcb/openbookscanner" rel="noopener" target="_blank">Software</a> verwenden wir HTML/CSS/Javascript, Python 3 und C++. Beiträge sind auch hier willkommen.
 

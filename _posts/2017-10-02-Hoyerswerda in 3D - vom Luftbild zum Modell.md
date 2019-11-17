@@ -1,29 +1,30 @@
 ---
 layout: post
 title: "Hoyerswerda in 3D - vom Luftbild zum Modell"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
 twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
 header_background: /assets/img/blog/2018/Musikbox_small.jpg
 image: /assets/img/blog/2018/Musikbox_small.jpg
-author: Maximilian Voigt
+author: Diana Schäfer
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+<h3>Das habe ich gemacht:</h3>
+<p>Im Sommersemester 2017 bearbeitete ich meine freie Masterarbeit im Fachgebiet Architektur an der <a href="http://www.b-tu.de/">BTU Cottbus Senftenberg</a> - Thema war die innere Altstadt Hoyerswerdas.</p> 
+<div class="img"><center><img src="http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_Altstadt-1024x482.jpg" alt="" width="800" height="377"><br>Luftbild: Hoyerswerda Altstadt</center></div>
+<p>Ziemlich schnell entschied ich mich dafür, die Modelle mit dem 3D Drucker zu drucken, da die Alternativen mit Holz zu aufwendig und Styrodur oder Pappen zu ungenau und unsauber gewesen wären. Die Vorbereitung hat allerdings einige Zeit in Anspruch genommen, weil ich jedes zu druckende Häuschen im CAD (Rhinoceros) erst konstruieren musste. Über das Internet erfuhr ich, dass dem FabLab ein 3D-Drucker zur Verfügung steht. Daraufhin richtete ich mir für zwei Wochen dort einen Arbeitsplatz ein. Die Mitglieder sind alle sehr freundlich - mir wurde alles nötige zum selbstständigen Drucken erklärt und wenn Probleme auftraten, half man mir fachkundig.</p>
+<center><img src="http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_Gitternetzmodell-1024x535.jpg" alt="Die Hoyerswerda Altstadt als Gitternetzmodell" width="800" height="418" class="alignnone size-large wp-image-1721" /><br>Die Hoyerswerda Altstadt als Gitternetzmodell</center>
+<p>Mein erstes Modell im Maßstab 1 zu 1000 war innerhalb einer knappen Woche fertig. Daher entschied ich mich auch das zweite, in 1 zu 200, mit dieser Methode zu verwirklichen. Dies stellte sich als komplizierter heraus, da die Gebäudeteile detaillierter gestaltet waren. So musste ich teilweise noch Stützstrukturen im CAD hinzufügen, damit z.B. Balkone gedruckt werden konnten. Das war aber kein großes Problem, da diese im Anschluss einfach mit einem Cuttermesser herausgetrennt werden konnten.</p>
+<center><img src="http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/3D-Druck_Zeitraffer.gif" alt="3D-Druck Zeitraffer" width="600" height="337" class="alignnone size-full wp-image-1719" /><br>Der 3D-Druck eines Gebäudes im Zeitraffer</center>
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+<h3>Meine größte Herausforderung...</h3>
+<p>...war die Zeit, denn zum Ende hin wurde diese immer knapper. Daher bekam ich die Unterstützung von zwei Mitgliedern des FabLabs, die mir ihre 3D-Drucker zur Verfügung stellten. So konnte ich meine Modelle pünktlich zum Abgabetermin einreichen.</p>
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+<h3>Am schönsten fand ich...</h3>
+<p>...es, wenn andere Mitglieder vorbei kamen, mit eigenen interessanten Ideen, die sie selbst umsetzen wollten.</p>
+<center><img src="http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/Hoyerswerda_3D-Modell-1024x611.jpg" alt="" width="800" height="477" class="alignnone size-large wp-image-1720" /><br>Das fertige Modell der Altstadt von Hoyerswerda</center>
+<h3>Fazit</h3>
+<p>Alles in allem ist das 3D-Drucken eine gute Alternative zu den herkömmlichen Möglichkeiten, ein architektonisches oder städtebauliches Modell zu bauen. Der Arbeitsaufwand ist allerdings sehr ähnlich, weil die Drucke am Computer vorbereitet und jeder Druck neu eingestellt und gestartet werden muss. Jedoch ist das Resultat mit keinem anderen von mir gebauten Modell zu vergleichen.
+Die Zeit im FabLab selbst hat mir viel Spaß gemacht und ich kann die Arbeit in dieser Mitwachwerkstatt nur empfehlen, da es für mich eine neue Erfahrung war, die ich nicht missen möchte. Vielen Danke euch Allen :)</p>

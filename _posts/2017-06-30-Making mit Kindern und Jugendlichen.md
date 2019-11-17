@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making mit Kindern und Jugendlichen"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,9 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Handwerkliches Arbeiten oder auch <a href="https://edulabs.de/blog/Interkulturelle-Bildung-durch-digitale-Tools-Susanne-Stauch-im-Interview" target="_blank" rel="noopener">Making verleiht Selbstbewusstsein und steigert das kritische Denken</a>. Auch können naturwissenschaftliche, mathematische sowie technische Vorgänge <a href="https://de.wikipedia.org/wiki/Seymour_Papert" target="_blank" rel="noopener">durch das haptische Erfahren leichter verstanden werden</a>. Das sind genügend Gründe, um damit früh zu beginnen. Ein Handbuch, das verschiedene Formatideen für das Erfahren von Making mit Kindern und Jugendlichen dokumentiert, macht es Bildungsträgern leichter, diese umzusetzen:
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
-
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+&nbsp;
+<ul>
+ 	<li><a href="http://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf" target="_blank" rel="noopener">Making-Aktivitäten mit Kindern und Jugendlichen - Handbuch zum kreativen digitalen Gestalten</a></li>
+</ul>

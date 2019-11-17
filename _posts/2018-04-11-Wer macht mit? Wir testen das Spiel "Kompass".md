@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Wer macht mit? Wir testen das Spiel Kompass"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+title: "Wer macht mit? Wir testen das Spiel 'Kompass'"
+teaser: "Computerspiele sind voll 2017 – Brettspiele sind wieder angesagt!"
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,16 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Die beiden Cottbuser Tüftler Jörg Kiefer und Michael Linke haben sich ein pfiffiges neues Spiel ausgedacht. Vor einem Jahr saßen sie noch bei uns im FabLab und haben am 3D-Druck ihrer Spielfiguren gefeilt. Nun steht das Spiel verkaufsbereit im Online-Shop! 
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/lNHY2N2AqQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+Bei "<a href="https://kompass-spiel.de/" rel="noopener" target="_blank">Kompass, das Spiel</a>" geht es um Kaufen und Verkaufen, 
+Investieren und Rendite machen. Doch anders als bei Monopoly gewinnt nicht der mit den dicksten Immobilien, 
+denn bei Kompass ist der Markt unberechenbar! So wie im wahren Leben bewegt sich im Spiel der Markt durch Boom,
+ Rezession, Depression und Expansion. Man muss also genau wissen, was in den verschiedenen Konjunkturphasen gerade angesagt
+ ist und seine Strategie darauf einstellen. So muss man sich z.B. überlegen ob man eher auf Sicherheit geht oder das Risiko 
+zu nutzen weiß!<br/><br/>
+Am Mittwoch den <strong>18.4. um 18 Uhr</strong> ist daher im FabLab Spieleabend angesagt!<br/><br/>
+ Wir drehen gemeinsam mit den Kompass-Entwicklern eine Runde durch den Konjunkturzyklus. 
+Wer Spaß am Spielen hat und die Kreation der beiden Cottbuser Entwickler kennen lernen möchte ist herzlich eingeladen!

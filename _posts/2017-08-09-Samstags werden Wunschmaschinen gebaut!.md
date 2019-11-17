@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Samstags werden wunschmaschinen gebaut"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+title: "Samstags werden Wunschmaschinen gebaut"
+teaser: ""
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
@@ -11,19 +11,10 @@ image: /assets/img/blog/2018/Musikbox_small.jpg
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Für Herrn Taschenbier ist es das Sams, das ihm den Wunsch nach der Wunschmaschine erfüllt. Im FabLab sind es die Besucher*innen selbst, die in fleißiger Kleinarbeit Schräublein und Brettlein, Widerstand und Platine miteinander vereinen. Auch am letzten Samstag war wieder "jut wat los".
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+Noch bevor die Werkstatt öffnete, warteten schon drei Bauwillige (einschließlich Hund) geduldig vor verschlossenen Türen. Ihr Projekt sollte ein selbstgebauter Handkarren werden - ein ausgedientes Lattenrost diente als Grundlage.
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+Während sie bauten, kamen Studierende sägen, nähen, fräsen, schweißen und programmieren. Es gab auch interessierte Besucher*innen von außerhalb: Ein Autoschlosser aus Burg brachte seinen Sat-Receiver mit defektem Netzteil und fragte um Rat.
+<p style="text-align: left;">Wir freuen uns jetzt schon auf den nächsten Samstag, wenn es wieder heißt: Alles klar zum Wunschmaschinen bauen? Auch wenn sie sich nur wieder abschalten sollen ;)</p>
+<p style="text-align: center;"><iframe class="giphy-embed" src="https://giphy.com/embed/Eb4HAUeQrq608" width="480" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

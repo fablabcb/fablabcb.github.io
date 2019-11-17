@@ -1,29 +1,36 @@
 ---
 layout: post
-title: "Rückblick: Über das Kryptogeld Bitcoin & Ethereum"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
+title: "Rückblick: Über das Kryptogeld Bitcoin & Etherum"
+teaser: "Workshop zur Kryptowährungen anlässlich der EU Code Week"
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
 categories: Projektnews
 twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
 header_background: /assets/img/blog/2018/Musikbox_small.jpg
 image: /assets/img/blog/2018/Musikbox_small.jpg
-author: Maximilian Voigt
+author: Hannes Wenzel
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Anlässlich der <a href="http://codeweek.eu/">EU Code Week</a> wurde im Fablab der Themenkomplex Kryptogeld an den Beispielen <a href="https://bitcoin.org/de/" target="_blank" rel="noopener">Bitcoin</a> und <a href="https://ethereum.org" target="_blank" rel="noopener">Ethereum</a> besprochen. Beide haben in den letzten Jahren große Wellen geschlagen und zu zahlreichen Innovationen in der Finanztechnologie (kurz <em>FinTech</em>) geführt.
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+Dabei geht es um einen ganz alltäglichen Vorgang, nämlich den des Überweisens von Geld. Anders als etwa im Alltag, wo wir Überweisungen über die Bank regeln, wird im Falle einer Cryptowährung keine Bank benötigt - der Vorgang läuft dezentral ab. Dennoch sollen Überweisungen zügig, sicher, günstiger und genauso einfach abgewickelt werden können, wie bei der Bank.
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
+Natürlich könnte man hier bereits loslegen, Bitcoin nutzen und darauf vertrauen, dass es irgendwie seine gegebenen Versprechen (schneller, günstiger, ohne Bank) einhält. Spannender ist natürlich herauszufinden, wie dies funktionieren soll. Nanu führte hierzu mit einem Vortrag in die technische Funktionsweise von Bitcoin ein.
 
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
+Dabei entsponn sich bereits während des Vortrags eine rege Diskussion. Fragen wurden sofort und ausführlich beantwortet. Sicherlich haben wir uns nicht immer an den roten Faden gehalten, aber der Erkenntnisgewinn war enorm. So mäanderten wir durch die Kryptologie (asymmetrische Verschlüsselung, Streuwerte), Informatik (die Blockkette als Datenbank und unendliches Transaktionslogbuch), Mathematik (Einwegfunktionen, Netztopologien) und Wirtschaftswissenschaften (Wertanlage, Spekulation, intrinsischer Wert von Bitcoin).
 
-    — Jakob Roschka (@jakobroschka) 18. November 2018
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gc2en3nHxA4?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
-<script>
+Ebenso ging es im zweiten Teil um Ethereum weiter. Darüber können nicht nur sogenannte <em>Ether</em>, sondern auch beliebige andere Währungen den Besitzer wechseln. Man kann hier die Idee sogar noch weiterspinnen und die Transaktion von eigenen Marken (engl. <em>token</em>) über Ethereum abwickeln. Eine Idee wäre etwa, Engagement für das Fablab (Aufräumen der Werkstatt, Abwaschen usw.) mit eigenen Marken zu entlohnen, wobei die Transaktion dezentral über Ethereum geschähe. Die Verträge hierfür wären als Programm unmanipulierbar in der Blockkette hinterlegt. Dieses Szenario haben wir auch einmal in einem Testnetz durchgespielt.
 
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
+Rückblickend lässt sich sagen, dass wir eine erkenntnisreiche Diskussion in angenehmer Runde hatten und viele bis dato ungekannte Zusammenhänge anschaulich dargestellt bekamen. Gewiss wird sich im Nachgang auch noch die eine oder andere Frage für diesen großen Themenkomplex ergeben, aber insgesamt war es eine gelungene Einführung.
 
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
-
+<strong>zum Thema relevante Ressourcen</strong>
+<ul>
+ 	<li>auf der <a href="https://bitcoin.org/de/" target="_blank" rel="noopener">offiziellen Bitcoin-Projektseite</a> gibt es ein Erklärvideo und leicht verständliche Erklärungen,</li>
+ 	<li>im (leider nur englischsprachigen) <a href="https://en.bitcoin.it/wiki/Main_Page" target="_blank" rel="noopener">Bitcoin-Wiki</a> werden die Themen etwas detaillierter dargestellt,</li>
+ 	<li>ausführliche Informationen zu jedem Block findet man bei <a href="https://blockchain.info/" target="_blank" rel="noopener">Blockchain.info</a>,</li>
+ 	<li>außerdem gibt es eine Reihe von Blogs (<a href="https://bitcoinblog.de/" target="_blank" rel="noopener">Bitcoin-Blog</a>, <a href="http://bitcoinblogger.de/" target="_blank" rel="noopener">Bitcoin-Blogger</a>, …)</li>
+ 	<li>die <a href="https://ethereum.org" target="_blank" rel="noopener">offizielle Ethereum-Projektseite</a> bietet keine so schöne Einführung, ein <a href="https://ethblog.de/was-ist-ethereum-eine-einfuehrung/#pll_switcher" target="_blank" rel="noopener">Blogger</a> hat sich hieran mal versucht.</li>
+ 	<li>ähnlich zu Blockchain.info gibt es <a href="https://etherscan.io" target="_blank" rel="noopener">Etherscan.io</a> und <a href="https://Etherchain.org" target="_blank" rel="noopener">Etherchain.org</a></li>
+</ul>

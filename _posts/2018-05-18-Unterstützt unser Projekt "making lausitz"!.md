@@ -1,29 +1,23 @@
 ---
 layout: post
-title: "Unterstützt unser Projekt making lausitz"
-teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
-teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
+title: "Unterstützt unser Projekt 'Making Lausitz'"
+teaser: "Mit Making Lausitz wollen wir bei der Google Impact Challenge abräumen und den Lausitzer Strukturwandel gestalten"
+teaser_img_src: /assets/img/blog/2018/Mai/makinglausitz_logo.png
 featured: true
 categories: Projektnews
-twitter_large_img: /assets/img/blog/2018/Musikbox_small.jpg
-header_background: /assets/img/blog/2018/Musikbox_small.jpg
-image: /assets/img/blog/2018/Musikbox_small.jpg
+twitter_large_img: /assets/img/blog/2018/Mai/makinglausitz_logo.png
+header_background: /assets/img/blog/2018/Mai/makinglausitz_logo.png
+image: /assets/img/blog/2018/Mai/makinglausitz_logo.png
 author: Maximilian Voigt
 
 ---
-Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "Bits & Bäume" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:
+Unterstützt uns dabei, die Google Impact Challenge zu gewinnen und <a href="https://impactchallenge.withgoogle.com/deutschland2018/charities/fablab-cottbus" target="_blank" rel="noopener">stimmt jetzt ab</a>!
 
-    "Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?"
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ZOIwpzzklo8?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
-Wir waren auch dabei und haben über die Frage gesprochen, was das Thema Nachhaltigkeit mit technischen Objekten zu tun hat - warum schmeißen wir den alten Wasserkocher so leichtfertig weg? Weil wir eine gestörte Beziehung zu unseren Alltagsgegenständen pflegen.
-
-    .@ma__vo plädiert für #OpenSourceHardware und sieht das Offenlegen von Technologien als Grundlage für Partizipation und Emanzipation. #noblackbox #bitsundbaeumehttps://t.co/b2V0KlHv3N
-
-    — Jakob Roschka (@jakobroschka) 18. November 2018
-
-<script>
-
-Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte aufschrauben. Dafür brauchen wir offene Werkstätten und Open Hardware:
-
-Viel mehr Details gibt es in der Aufzeichnung des Talks:
+Wir möchten junge Erwachsene und Senioren zusammenbringen und gemeinschaftlich an lokalen Problemen arbeiten. 
+Es geht um Selbstwirksamkeit, generationenübergreifendes Arbeiten und Wissensaustausch. Helft uns dabei, die Veranstaltungsreihe nach Cottbus
+ zu bringen. Geplant sind mehrere Workshops, mit unterschiedlichen Themen rund um das Arbeiten mit digitalen und analogen Produktionsmitteln.
+ Im Anschluss veranstalten wir einen Hackathon, in dessen Rahmen lokalen Problemen mit einfachen technischen Lösungen begegnet werden. 
+Hier geht's zur <a href="http://making-lausitz.de/" target="_blank" rel="noopener">Projekt-Website</a>.
 
