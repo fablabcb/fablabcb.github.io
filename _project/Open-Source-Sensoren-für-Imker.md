@@ -12,8 +12,8 @@ contact-name: Maximilian Voigt
 contact-email: m.voigt@fablab-cottbus.de
 date: '2018-05-06T12:40:22.862Z'
 slug: Open-Source-sensoren-für-Imker
-image_src: /assets/img/projects/Logo_lang_weiß auf schwarz.png
+image_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/11/osbh.jpg
 firstelement: 2
-homepage: false
+homepage: true
 featured: false
 ---

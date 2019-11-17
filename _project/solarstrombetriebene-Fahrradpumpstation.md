@@ -12,8 +12,9 @@ contact-name: Maximilian Voigt
 contact-email: m.voigt@fablab-cottbus.de
 date: '2018-04-06T12:40:22.862Z'
 slug: solarstrombetriebene-Fahrradpumpstation
-image_src: /assets/img/projects/Logo_lang_weiß auf schwarz.png
+image_src: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 firstelement: 2
-homepage: false
+homepage: true
 featured: false
 ---
+Bei diesem Projekt handelt es sich um eine autarke Kompressorstation, die sich durch ein Solarpanel selbst mit Strom versorgt. Die Fahrradpumpstation ist das erste Projekt des Fablabs Cottbus und wurde durch den Ideenwettbewerb der BTU Cottbus gefördert.

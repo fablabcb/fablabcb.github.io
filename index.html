@@ -16,7 +16,7 @@ layout: default
         <div class="content-wrap">
 
             <!-- INSPECT: {{ site.dw | inspect}} -->
-                  <h1 class="regular">Der FabLab Cottbus e.V. - Deine Technik-Community in Cottbus</h1>
+                  <h1 class="regular">Der FabLab Cottbus e.V.<br>Deine Technik-Community in Cottbus</h1>
             <p>Große Ideen, aber keine Werkstatt? Keine Ahnung von Technik, aber trotzdem Interesse? Dann schließ dich unserer Community an. Wir teilen uns eine Werkstatt, mit zahlreichen Werkzeugen und Maschinen sowie das Wissen, wie sie eingesetzt werden. Jeder ist willkommen Teil des Vereins zu werden. Kommt einfach zur <strong>Öffnungszeit am Samstag (14 Uhr - 18 Uhr)</strong> oder schreibt uns eine <a href="mailto:info@fablab-cottbus.de">Mail</a>.</p>
               </div>
               <div class="content-wrap btn-wrap">
@@ -42,7 +42,7 @@ layout: default
     <section class="section col-xs-24">
         <div class="content-wrap topic-wrap">
             <h2 class="section-headline">Einblicke</h2>
-            <div class="taggbox-container" style="width:100%;height:auto;overflow: auto;-webkit-overflow-scrolling:touch;"><script async src="//taggbox.com/socialwalls/ose/script/embed.min.js" type="text/javascript"></script><div class="taggbox-socialwall" data-wall-id="fablabcb">  </div></div>        </div>
+            <div class="video" ><iframe width="560" height="315" src="https://www.youtube.com/embed/m8_hJLf2SNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         <div class="content-wrap topic-wrap btn-wrap" style="clear: both;">
             <a class="edu-btn black" href="/about" target="_blank">Über die Werkstatt</a>
         </div>
@@ -60,7 +60,7 @@ layout: default
             <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
 
             {% assign posts = site.posts %}
-            {% for post in posts limit:12 %}
+            {% for post in posts limit:3 %}
                 {% if post.visible == 0  %}
                 {% else %}
                   {% assign categories = post.categories | join:', ' %}
