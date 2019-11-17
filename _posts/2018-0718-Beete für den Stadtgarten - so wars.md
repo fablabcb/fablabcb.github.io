@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "schniedel"
+title: "Beete für den Stadtgarten: so war's"
 teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "schniedel"
+title: "Hoyerswerda in 3D - vom Luftbild zum Modell"
 teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
 teaser_img_src: /assets/img/blog/2018/Musikbox_small.jpg
 featured: true
