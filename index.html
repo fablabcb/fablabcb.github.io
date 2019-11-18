@@ -60,7 +60,7 @@ layout: default
             <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
 
             {% assign posts = site.posts %}
-            {% for post in posts limit:4 %}
+            {% for post in posts limit:3 %}
                 {% if post.visible == 0  %}
                 {% else %}
                   {% assign categories = post.categories | join:', ' %}
