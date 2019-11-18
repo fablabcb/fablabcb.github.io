@@ -4,7 +4,7 @@ title: "Launch: die Plattform des Verbunds Brandenburger Werkstätten"
 teaser: "Nun ist er endlich da: der Internetauftritt des Netzwerkes Offener Werkstätten in Brandenburg. "
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2019/02/Bildschirmfoto-vom-2019-02-02-11-57-01.png
 featured: false
-categories: Events
+categories: Netzwerk
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2019/02/Bildschirmfoto-vom-2019-02-02-11-57-01.png
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2019/02/Bildschirmfoto-vom-2019-02-02-11-57-01.png
 image: http://blog.fablab-cottbus.de/wp-content/uploads/2019/02/Bildschirmfoto-vom-2019-02-02-11-57-01.png

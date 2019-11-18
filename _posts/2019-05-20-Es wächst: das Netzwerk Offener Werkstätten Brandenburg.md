@@ -4,7 +4,7 @@ title: "Es wächst: das Netzwerk Offener Werkstätten Brandenburg"
 teaser: "Wir waren wieder Teil der Maker Faire und haben uns mit dem Brandenburger Netzwerk präsentiert."
 teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2725-1080x675.jpg
 featured: false
-categories: Events
+categories: Events Netzwerk
 twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2725-1080x675.jpg
 header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2725-1080x675.jpg
 image: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2725-1080x675.jpg

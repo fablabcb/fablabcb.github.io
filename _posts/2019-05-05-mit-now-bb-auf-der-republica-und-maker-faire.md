@@ -4,7 +4,7 @@ title: "re:publica & Maker Faire: Unterwegs mit dem Brandenburger Netzwerk"
 teaser: "Besucht uns auf der der Maker Faire oder bei der re:publica!"
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
 featured: false
-categories: Events
+categories: Events Netzwerk
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
 image: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
