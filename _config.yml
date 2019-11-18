@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: info@fablab-cottbus.de
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://fablabcb.github.io/" # the subpath of your site, e.g. /blog
 twitter_username: fablabcb
 permalink: /blog/:title
-url: "https://fablab-cottbus.de"
+url: "https://fablabcb.github.io/"
 
 # Build settings
 highlighter: rouge
