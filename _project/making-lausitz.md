@@ -1,5 +1,5 @@
 ---
-title: making lausitz - mit digitalem & analogen Handwerk die Region gestalten
+title: Mit digitalem & analogem Handwerk die Region gestalten
 lab: Projekte
 status: building
 short-desc: >-

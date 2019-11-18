@@ -1,5 +1,5 @@
 ---
-title: Intelligente Musikinterpretation
+title: Musik visualisieren
 lab: Projekte
 status: building
 short-desc: >-
