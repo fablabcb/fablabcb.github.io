@@ -12,6 +12,6 @@ contact-email: m.voigt@fablab-cottbus.de
 slug: solarstrombetriebene-Fahrradpumpstation
 image_src: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 firstelement: 2
-homepage: true
+homepage: false
 featured: false
 ---
