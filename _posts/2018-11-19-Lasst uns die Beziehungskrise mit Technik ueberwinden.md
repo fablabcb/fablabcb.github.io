@@ -4,7 +4,7 @@ title: "Technik & Mensch: eine Beziehungskriese"
 teaser: "Unser Vorstandsmitglied sprach auf der Konferenz 'Bits und Bäume'"
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
 featured: false
-categories: Events
+categories: Events Diskurs
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
 image: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png

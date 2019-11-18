@@ -4,7 +4,7 @@ title: "Fab Labs: Marktplätze eines neuen Kapitalismus oder Commons basierte Re
 teaser: ""
 teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
 featured: false
-categories: Bildung
+categories: Bildung Diskurs
 twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
 header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
 image: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
