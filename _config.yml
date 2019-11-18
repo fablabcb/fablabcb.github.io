@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: info@fablab-cottbus.de
-baseurl: "https://fablabcb.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: fablabcb
 permalink: /blog/:title
 url: "https://fablabcb.github.io/"
