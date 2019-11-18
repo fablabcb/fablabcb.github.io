@@ -1,6 +1,12 @@
-- name: Vereinstreffen
+- name: Repair Café
   url:
-  date: 31.03. // 17 Uhr
-  city: Lab
+  date: 07.12 // ab 14 Uhr
+  city:
   featured: true
   id: "0001"
+- name: Das Fabmobil zu besuch
+  url:
+  date: 13. - 15.12.
+  city:
+  featured: true
+  id: "0002"
