@@ -2,12 +2,12 @@
 layout: post
 title: "Ein Jugend-Lab für Cottbus"
 teaser: "Wir möchten unsere Werkstatt auch für Jugendliche öffnen und starten ein Jugend-Lab."
-teaser_img_src: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
-featured: true
+teaser_img_src: /assets/img/blog/IMG_6493.JPG
+featured: false
 categories: Projektnews Events
-twitter_large_img: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
-header_background: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
-image: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
+twitter_large_img: /assets/img/blog/IMG_6493.JPG
+header_background: /assets/img/blog/IMG_6493.JPG
+image: /assets/img/blog/IMG_6493.JPG
 author: Maximilian Voigt
 ---
 Nach einiger Konzeptarbeit und der Vernetzung mit anderen Initiativen in der Region, die in der Jugendarbeit aktiv sind, ist es endlich soweit! Wir starten unser Jugend-Lab in Cottbus. Gefördert durch die Körber Stiftung und den Stifterverband wollen wir Jugendlichen die Werkstatt öffnen. Durch Workshops werden grundlegende Kompetenzen im Umgang mit Mikrocontrollern, 3D-Druckern und anderen Geräten sowie Handwerkstechnik vermittelt. Anschließend helfen wir bei der Umsetzung eigener Projekte.
