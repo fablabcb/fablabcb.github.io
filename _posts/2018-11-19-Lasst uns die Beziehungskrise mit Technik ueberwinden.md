@@ -24,7 +24,7 @@ Um das zu ändern, müssen wir an unseren Vorstellungen arbeiten und die Geräte
 
 Viel mehr Details gibt es in der Aufzeichnung des Talks:
 
-<div class="video"><iframe width="1024" height="576" src="https://media.ccc.de/v/bub2018-116-technik_entdecken_-_durch_offene_werkstatten_projekte/oembed" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe  src="https://media.ccc.de/v/bub2018-116-technik_entdecken_-_durch_offene_werkstatten_projekte/oembed" frameborder="0" allowfullscreen></iframe></div>
 
 
 
