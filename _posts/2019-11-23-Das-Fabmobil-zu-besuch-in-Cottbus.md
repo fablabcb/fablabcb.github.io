@@ -3,7 +3,7 @@ layout: post
 title: "Jugendlab: das Fabmobil zu besuch"
 teaser: "Wir möchten unsere Werkstatt auch für Jugendliche öffnen und starten ein Jugend-Lab. Das Fabmobil eröffnet mit uns die neuen Möglichkeiten."
 teaser_img_src: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
-featured: true
+featured: false
 categories: Projektnews Events
 twitter_large_img: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
 header_background: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
@@ -28,7 +28,7 @@ Wir nutzen das für die Eröffnung unseres Jungendlabs. In Zukunft öffnen wir u
 An diesem Wochenende bieten wir euch Einblicke in die Möglichkeiten der Werkstatt und folgende Workshops & Veranstaltungen:
 
 - Freitag, 15 Uhr bis 18 Uhr: Code & Chill - Wir bringen mit einem Mikrocontroller Leben in die Welt und machen uns einen entspannten Nachmittag.
-- Freitag, ab 20 Uhr: Feiert mit uns 2019! 
+- Freitag, ab 20 Uhr: Feiert mit uns 2019!
 - Samstag, 14 Uhr bis 17 Uhr: 3D-Drucken für Einsteiger* und Fortgeschrittene - Wir suchen uns coole Modelle aus dem Netz oder bauen uns Eigene, die wir dann drucken.
 
 Natürlich könnt ihr abseits der Workshops die Räumlichkeiten auch für andere Dinge nutzen und besichtigen - sowie einen Blick ins Fabmobil werfen. Wir freuen uns auf euren Besuch! Wenn ihr über die zukünftigen Angebote informiert werden möchten, abboniert unseren [Newsletter](/subscribe).

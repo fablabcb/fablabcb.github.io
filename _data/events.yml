@@ -10,3 +10,9 @@
   city:
   featured: true
   id: "0002"
+- name: Datenschule
+  url: /blog/Open-Data-in-Cottbus
+  date: 14.12.
+  city:
+  featured: true
+  id: "0003"
