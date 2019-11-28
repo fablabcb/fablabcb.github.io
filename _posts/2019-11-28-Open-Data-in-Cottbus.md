@@ -18,6 +18,12 @@ Wie kann man Umweltdaten für die eigene Arbeit als Umweltaktive nutzen? Woher k
 Gemeinsam bezwingen wir das Recherche-Monster und werden uns auf die Suche nach spannenden Daten im Umweltbereich begeben. Welche Portale sind hilfreich? Wie bekomme ich Daten aus PDFs in ein maschinenlesbares Format?
 Nach dem Finden der Daten geht´s ans Säubern: Mit Hilfe spannender Tools lernen wir gemeinsam Tricks und die wichtigsten Schritte um einen Datensatz fit zu machen.
 
+<div class="img-wrap-center">
+<a href="/assets/img/blog/odsmoke.gif" target="_blank"><img src="/assets/img/blog/bub_max.png" style="width: 100%; display: inline-block"></a>
+<div class="caption" style="text-align: right">Feinstaubdaten zur Beobachtung der Rauchentwicklung bei Waldbränden
+</div>
+</div>
+
 * **WO?:** In unseren Räumen (3D-Druck-Werkstatt)
 * **WANN?:** Am 14.12.2019, 13 Uhr bis 18 Uhr
 <br><br>
