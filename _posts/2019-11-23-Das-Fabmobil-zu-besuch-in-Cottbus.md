@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tag der offenen Werkstatt: das Fabmobil zu besuch"
+title: "Tag der offenen Werkstatt: das Fabmobil zu Besuch"
 teaser: "Wir möchten unsere Werkstatt auch für Jugendliche öffnen und starten ein Jugend-Lab. Das Fabmobil eröffnet mit uns die neuen Möglichkeiten."
 teaser_img_src: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
 featured: false
