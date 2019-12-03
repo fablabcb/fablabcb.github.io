@@ -2,12 +2,12 @@
 layout: post
 title: "Workshop: Mit Umweltdaten Gutes tun!"
 teaser: "Wie lassen sich öffentliche Daten nutzen? Wo sind sie zu finden? Im Workshop geht es um Grundlagen und den Austausch zwischen Fortgeschrittenen."
-teaser_img_src: https://datenschule.de/files/blog/2019/10/pivot.gif
+teaser_img_src: /assets/img/blog/pivot.gif
 featured: true
 categories: Events
-twitter_large_img: https://datenschule.de/files/blog/2019/10/pivot.gif
-header_background: https://datenschule.de/files/blog/2019/10/pivot.gif
-image: https://datenschule.de/files/blog/2019/10/pivot.gif
+twitter_large_img: /assets/img/blog/pivot.gif
+header_background: /assets/img/blog/pivot.gif
+image: /assets/img/blog/pivot.gif
 author: Maximilian Voigt
 ---
 
