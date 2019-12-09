@@ -28,7 +28,7 @@ Wir nutzen das für die Eröffnung unseres Jungendlabs. In Zukunft öffnen wir u
 Aber nicht nur für Jugendliche öffnen wir am 13. unsere Werkstatt: **Jeder und jede ist willkommen**, kann die Werkstatt erkunden und vor allem an Workshops teilnehmen:
 
 - **Freitag, 15 Uhr bis 18 Uhr: Code & Chill** - Wir bringen mit einem Mikrocontroller Leben in die Welt und machen uns einen entspannten Nachmittag.
-- **Samstag, 12 Uhr bis 17 Uhr: [Mit Umweltdaten gutes tun](https://fablabcb.de/blog/Open-Data-in-Cottbus)** - Wie lassen sich öffentliche Daten nutzen? Wo sind sie zu finden? Im Workshop geht es um Grundlagen und den Austausch zwischen Fortgeschrittenen.
+- **Samstag, 13 Uhr bis 18 Uhr: [Mit Umweltdaten gutes tun](https://fablabcb.de/blog/Open-Data-in-Cottbus)** - Wie lassen sich öffentliche Daten nutzen? Wo sind sie zu finden? Im Workshop geht es um Grundlagen und den Austausch zwischen Fortgeschrittenen.
 - **Samstag, 14 Uhr bis 17 Uhr: 3D-Drucken für Einsteiger* und Fortgeschrittene** - Wir suchen uns coole Modelle aus dem Netz oder bauen uns Eigene, die wir dann drucken.
 - **Samstag, ab 20 Uhr: Feiert mit uns 2019!**
 
