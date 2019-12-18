@@ -8,11 +8,29 @@
   url:
   date: 13. - 15.12.
   city:
-  featured: true
+  featured: false
   id: "0002"
 - name: Datenschule
   url: /blog/Open-Data-in-Cottbus
   date: 14.12.
   city:
-  featured: true
+  featured: false
   id: "0003"
+- name: Jugend-Lab
+  url:
+  date: Montags, 15-18 Uhr
+  city:
+  featured: fals
+  id: "0004"
+- name: Repair Café
+  url:
+  date: Jeden 1. Samstag
+  city:
+  featured: fals
+  id: "0005"
+- name: Winterpause / Geschlossen
+  url:
+  date:
+  city:
+  featured: true
+  id: "0006"
