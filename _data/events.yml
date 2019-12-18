@@ -2,7 +2,7 @@
   url:
   date: 07.12 // ab 14 Uhr
   city:
-  featured: true
+  featured: false
   id: "0001"
 - name: <a href='https://fablabcb.de/blog/Das-Fabmobil-zu-besuch-in-Cottbus'>Jugendlab-WE</a>
   url:
@@ -20,15 +20,15 @@
   url:
   date: Montags, 15-18 Uhr
   city:
-  featured: fals
+  featured: false
   id: "0004"
 - name: Repair Café
   url:
   date: Jeden 1. Samstag
   city:
-  featured: fals
+  featured: false
   id: "0005"
-- name: Winterpause / Geschlossen
+- name: Winterpause /<br><br>Das FabLab ist geschlossen!
   url:
   date:
   city:
