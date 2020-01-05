@@ -25,12 +25,20 @@
 - name: Repair Café
   url:
   date: Jeden 1. Samstag
+  time: 14 - 18 Uhr
   city:
-  featured: false
+  featured: true
   id: "0005"
 - name: Winterpause /<br><br>Das FabLab ist geschlossen!
   url:
   date:
   city:
-  featured: true
+  featured: false
   id: "0006"
+- name: Jugend-Lab
+  url:
+  date: Jeden Montag
+  time: 15 - 18 Uhr
+  city:
+  featured: true
+  id: "0007"
