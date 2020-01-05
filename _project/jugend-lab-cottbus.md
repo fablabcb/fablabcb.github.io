@@ -7,8 +7,8 @@ short-desc: >-
 needs: "Du möchtest als Mentor oder Mentorin Jugendliche bei ihren Projekten betreuen oder einfach das Lab besuchen? Dann melde dich bei uns!"
 content: ""
 link: ''
-contact-name: Maximilian Voigt
-contact-email: m.voigt@fablab-cottbus.de
+contact-name: Gordon Krug
+contact-email: jugendlab@fablab-cottbus.de
 slug: jugend-lab-cottbus
 image_src: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
 firstelement: 1
