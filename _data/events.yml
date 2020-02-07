@@ -18,7 +18,7 @@
   id: "0003"
 - name: Jugend-Lab
   url:
-  date: Montags, 15-18 Uhr
+  date: Dienstag, 15-18 Uhr
   city:
   featured: false
   id: "0004"
@@ -37,7 +37,7 @@
   id: "0006"
 - name: Jugend-Lab
   url:
-  date: Jeden Montag
+  date: Jeden Dienstag
   time: 15 - 18 Uhr
   city:
   featured: true
