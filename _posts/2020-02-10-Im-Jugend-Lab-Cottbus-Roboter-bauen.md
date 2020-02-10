@@ -14,6 +14,9 @@ header_background_caption: "Otto - <a href='https://creativecommons.org/licenses
 ---
 
 Du wolltest schon immer mal deinen eigenen Roboter bauen? Dann komm' am 18.2. ins FabLab Cottbus! Ab 16 Uhr startet unser Roboter-Workshop. Der Workshop ist der Auftakt einer längeren Bauphase - denn [Otto](https://wikifactory.com/+OttoDIY/humanoid) bauen nur die Wenigsten über Nacht! Im ersten Teil starten wir mit dem 3D-Druck des Gehäuses.
+<br>Der Workshop ist Teil unseres Jugend-Labs, das du jeden Dienstag ab 16 Uhr besuchen kannst.
+
+
 
 * Die Teilnahme ist kostenlos.
 * Du musst für die Teilnahme keine besonderen Fähigkeiten haben.
