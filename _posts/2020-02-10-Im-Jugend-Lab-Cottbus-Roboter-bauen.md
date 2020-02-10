@@ -18,5 +18,7 @@ Du wolltest schon immer mal deinen eigenen Roboter bauen? Dann komm' am 18.2. in
 * Die Teilnahme ist kostenlos.
 * Du musst für die Teilnahme keine besonderen Fähigkeiten haben.
 
+Bitte meldet euch an und schreibt uns eine kurze Mail! info@fablab-cottbus.de
+
 <br><br>
 <div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VD6sgTo6NOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
