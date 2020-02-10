@@ -3,7 +3,7 @@ layout: post
 title: "Workshop: Mit Umweltdaten Gutes tun!"
 teaser: "Wie lassen sich öffentliche Daten nutzen? Wo sind sie zu finden? Im Workshop geht es um Grundlagen und den Austausch zwischen Fortgeschrittenen."
 teaser_img_src: /assets/img/blog/pivot.gif
-featured: true
+featured: false
 categories: Events
 twitter_large_img: /assets/img/blog/pivot.gif
 header_background: /assets/img/blog/pivot.gif
