@@ -1,0 +1,45 @@
+---
+layout: default
+title: Feedback Netzwärts
+permalink: /feedback
+info_text: |
+
+---
+<!-- über die Plattform -->
+<div class="row">
+    <section class="section first col-xs-24">
+        <div class="content-wrap subpage">
+            <h1 class="section-headline">Feedback Netzwärts Fortbildung</h1>
+            <div class="subpage-content">
+                <div class="img-wrap-center">
+
+                <!-- modify this form HTML and place wherever you want your form -->
+
+                    <form class="form" action="https://formspree.io/xqkbkaza" method="POST">
+                        <label>
+                            Deine E-Mail
+                            <input type="text" name="_replyto">
+                        </label>
+                            <label>Welche Note gibst du der Fortbildung?
+                                <select name="number" required>
+                                    <option>1</option>
+                                    <option>1</option>
+                                    <option>1</option>
+
+                                </select>
+                            </label>
+                        <label>
+                            Was hat dir besonders gefallen?
+                            <textarea name="message"></textarea>
+                        </label>
+                        <div class="content-wrap btn-wrap">
+                            <button class="edu-btn black" type="submit">Send</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
