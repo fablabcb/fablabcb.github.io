@@ -27,18 +27,18 @@
   date: Jeden 1. Samstag
   time: 14 - 18 Uhr
   city:
-  featured: true
+  featured: false
   id: "0005"
-- name: Winterpause /<br><br>Das FabLab ist geschlossen!
+- name: "#FlattenTheCurve<br><br>Das FabLab ist bis zum 20.04. geschlossen!"
   url:
   date:
   city:
-  featured: false
+  featured: true
   id: "0006"
 - name: Jugend-Lab
   url:
   date: Jeden Dienstag
   time: 15 - 18 Uhr
   city:
-  featured: true
+  featured: false
   id: "0007"
