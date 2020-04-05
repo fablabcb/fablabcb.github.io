@@ -545,6 +545,18 @@ HEADER STYLES
             font-weight: bold;
           }
         }
+        &.featured-red{
+          a{
+            color: $white;
+            background-color: rgba(170,0,0,1);
+          }
+          &:hover, &:focus{
+
+            a{
+                background-color: rgba(170,0,0,0.3);
+            }
+          }
+        }
         a{
 
           @include transition(color .25s ease);
