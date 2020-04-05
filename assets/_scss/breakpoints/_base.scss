@@ -542,7 +542,9 @@ HEADER STYLES
             background-color: RGBA(0, 0, 128, 1);
           }
           &:hover, &:focus{
-            font-weight: bold;
+            a{
+                background-color: RGBA(0, 0, 128, 0.3);
+            }
           }
         }
         &.featured-red{
