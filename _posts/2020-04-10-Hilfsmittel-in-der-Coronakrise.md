@@ -13,7 +13,7 @@ header_background_caption: "Bild: xhain Berlin"
 
 ---
 
-In einer gemeinsamen Aktion verteilen verschiedene Offene Werkstätten, FabLabs und Makerspaces aus Brandenburg und Berlin 12.000 Gesichtsvisiere.
+In einer [gemeinsamen Aktion](https://offene-werkstaetten-brandenburg.de/help/) verteilen verschiedene Offene Werkstätten, FabLabs und Makerspaces aus Brandenburg und Berlin 12.000 Gesichtsvisiere.
 
 Diese Visiere werden über Atemschutzmasken getragen und stellen einen zusätzlichen Schutz dar, da sie undurchlässig sind für virushaltige Tröpfchen und dadurch nicht nur Mund und Nase, sondernauch den Augenbereich abdecken. Ausserdem verhindern sie das unbeabsichtigte Berühren mit den eigenen Händen. Deshalb sind derartige Gesichtsvisiere heute Teil der Standardschutzausrüstung bei potenziellem Kontakt mit Covid19 Viren.
 
