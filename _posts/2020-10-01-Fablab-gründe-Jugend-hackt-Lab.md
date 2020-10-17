@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cottbuser Jugendwerkstatt wird Jugend hack-Lab!"
+title: "Cottbuser Jugendwerkstatt wird Jugend hackt-Lab!"
 teaser: "Am 26.10. wird das Jugend-Lab des FabLabs offiziell zum Jugend hackt-Labund damit Teil des deutschlandweiten Netzwerkes."
 teaser_img_src: /assets/img/blog/jh.jpg
 featured: true
