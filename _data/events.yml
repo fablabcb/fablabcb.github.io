@@ -36,14 +36,14 @@
   featured: false
   id: "0006"
 - name: Jugend-Lab
-  url: 'https://fablabcb.de/projects/jugend-lab-cottbus/'
+  url: '/projects/jugend-lab-cottbus/'
   date: Jeden Montag
   time: 16 - 18 Uhr
   city:
   featured: true
   id: "0007"
 - name: Open-Data-Lab
-  url: 'https://fablabcb.de/projects/jugend-lab-cottbus/'
+  url: '/projects/open-data-lab-cottbus'
   date: Jeden Dienstag
   time: 18:30 Uhr
   city:
