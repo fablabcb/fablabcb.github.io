@@ -4,7 +4,7 @@ title: "Cottbuser Jugendwerkstatt wird Jugend hackt-Lab!"
 teaser: "Am 26.10. wird das Jugend-Lab des FabLabs offiziell zum Jugend hackt-Labund damit Teil des deutschlandweiten Netzwerkes."
 teaser_img_src: /assets/img/blog/jh.jpg
 featured: false
-categories: Projektnews Events
+categories: Projektnews Events Bildung
 twitter_large_img: /assets/img/blog/jh.jpg
 header_background: /assets/img/blog/jh.jpg
 image: /assets/img/blog/jh.jpg
