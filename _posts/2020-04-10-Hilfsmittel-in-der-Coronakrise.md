@@ -3,7 +3,7 @@ layout: post
 title: "12.000 Gesichtsvisiere fürBrandenburg, Berlin und Mecklenburg-Vorpommern"
 teaser: "In einer gemeinsamen Aktion stellt ein Zusammenschluss von Maker-Initiativen 12.000 Gesichtsvisiere für Pflegekräfte, Rettungsdienste und Ärzte aus Brandenburg, Mecklenburg-Vorpommern und Berlin bereit. Damit decken sie dringende Bedarfe, denen derzeit nur ungenügendentsprochen werden kann."
 teaser_img_src: /assets/img/static/hilsmittel_xhain.jpeg
-featured: true
+featured: false
 categories: Netzwerk
 twitter_large_img: /assets/img/static/hilsmittel_xhain.jpeg
 header_background: /assets/img/static/hilsmittel_xhain.jpeg
