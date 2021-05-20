@@ -11,7 +11,7 @@ link: ''
 contact-name: Gordon Krug, Christopher Gloßner
 contact-email: lab-cottbus@jugendhackt.org
 slug: jugend-lab-cottbus
-image_src: https://turing-bus.de/files/blog/2019/09-02/esblinkt.gif
+image_src: https://old.turing-bus.de/files/blog/2019/09-02/esblinkt.gif
 firstelement: 1
 homepage: true
 featured: true
