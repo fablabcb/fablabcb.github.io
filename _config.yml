@@ -94,6 +94,6 @@ staticman:
   branch: "master"
 
 title: "FabLab Cottbus e.V."
-description: "Die MitmachWerkstatt in Cottbus"
+description: "Die MitmachWerkstatt in Cottbus & erster Makerspace in der Region"
 logo: "/assets/img/static/edulabs-logo.svg"
 lang: "de_DE"
