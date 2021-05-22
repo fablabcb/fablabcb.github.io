@@ -2,12 +2,12 @@
 layout: post
 title: "Luft für Cottbus"
 teaser: "Unser Eigenbau einer solarbetriebenen Fahrradpumpstation"
-teaser_img_src: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+teaser_img_src: https://wiki.fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 featured: false
 categories: Projektnews
-twitter_large_img: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
-header_background: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
-image: https://fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+twitter_large_img: https://wiki.fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+header_background: https://wiki.fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
+image: https://wiki.fablab-cottbus.de/images/8/8a/Fahrradpumpstation_Standort.JPG
 author: Maximilian Voigt
 
 ---
