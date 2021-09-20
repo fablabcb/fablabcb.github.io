@@ -3,7 +3,7 @@ layout: post
 title: "Startet mit uns den 1. Chaostreff in Cottbus!"
 teaser: "Wir möchten informatische und netzpolitische Themen mehr ins Zentrum rücken und starten am 28.5. einen CCC nahen Austausch."
 teaser_img_src: /assets/img/blog/DSC_2083.jpeg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/DSC_2083.jpeg
 header_background: /assets/img/blog/DSC_2083.jpeg
