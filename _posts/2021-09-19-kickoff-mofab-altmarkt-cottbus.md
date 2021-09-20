@@ -18,6 +18,8 @@ Wie können wir liebgewonnene Gegenstände länger erhalten? Was kann jeder daf�
 Alle sind eingeladen, die Werkstätten zu entdecken, Geräte auszuprobieren, mitzudiskutieren oder sich an vermeintlich kaputten Gegenständen reparierend zu versuchen. Denn der Sonntag ist nur der Start eines zweijährigen Projektes. Mit dem Verbundvorhaben [„Mobilefablabs: WI+R Verbundswerkstatt Lausitz“ (MoFab)](https://digitale-reparaturfabrik.de/projekte/) möchten wir mit Brandenburger Bürgern und Bürgerinnen ganz konkrete technische Lösungen entwickeln, die unsere Region weiterbringen. Wir sind eine Region mit vielen handwerklichen Fähigkeiten, einer starken Reparaturkultur und guten Ideen. Zusammen verwirklichen wir sie.
 
 ## Programm
+Auf dem [Altmarkt in Cottbus](https://www.openstreetmap.org/#map=19/51.76071/14.33403)
+
 ### Am 24. Oktober: 12 Uhr bis 19 Uhr
 * Ausstellung von Technologien von der Zivilgesellschaft für die Zivilgesellschaft
 * Repair Café: Hinter der Fassade meines Smartphones
