@@ -21,7 +21,7 @@ Alle sind eingeladen, die Werkstätten zu entdecken, Geräte auszuprobieren, mit
 Auf dem [Altmarkt in Cottbus](https://www.openstreetmap.org/#map=19/51.76071/14.33403)
 
 ### Am 24. Oktober: 12 Uhr bis 19 Uhr
-* Ausstellung von Technologien von der Zivilgesellschaft für die Zivilgesellschaft
+* Ausstellung von Technologien von der Zivilgesellschaft für die Zivilgesellschaft, mit Exponanten von [Careables](https://www.careables.org/)
 * Repair Café: Hinter der Fassade meines Smartphones
 * Rundgang: Werkstätten der Zukunft
 
