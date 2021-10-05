@@ -34,7 +34,7 @@ Auf dem [Altmarkt in Cottbus](https://www.openstreetmap.org/#map=19/51.76071/14.
 * 11:10 - Panel: Zur Relevanz technischer Partizipation, es diskutieren:
   * Prof. Norbert Gronau - Universität Potsdam
   * Dr. Henriette Litta - Open Knowledge Foundation Deutschland
-  * Jens Zarske-Lehmann - AWO Brandenburg Süd
+  * Wolfgang Luplow - AWO Brandenburg Süd
   * Mario Parade - Wissenschaftsladen Potsdam
 * 12:00 Get together
 * Ende: 16 Uhr
