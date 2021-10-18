@@ -13,7 +13,7 @@ header_background_caption: "Foto: Jakub Purej"
 
 ---
 
-Wie können wir liebgewonnene Gegenstände länger erhalten? Was kann jeder dafür tun, um die wachsende Trockenheit in den Griff zu bekommen? Und welche Ideen gibt es für mehr Mobilität? Mit diesen Fragen und unter dem Motto “reparieren, erhalten, erfinden” wird der Altmarkt am Sonntag, den 24. Oktober, zur Offenen Werkstatt. Mit gleich drei voll ausgestatteten, mobilen Makerspaces zeigt das [Netzwerk Offener Werkstätten Brandenburg](https://offene-werkstaetten-brandenburg.de/), welche Möglichkeiten gemeingutorientierte Produktionsorte haben. Eine Ausstellung zeigt gute Beispiele, die in den Werkstätten oder durch ihre Communities entwickelt wurden.
+Wie können wir liebgewonnene Gegenstände länger erhalten? Was kann jeder und jede dafür tun, um die wachsende Trockenheit in den Griff zu bekommen? Und welche Ideen gibt es für mehr Mobilität? Mit diesen Fragen und unter dem Motto “reparieren, erhalten, erfinden” wird der Altmarkt am Sonntag, den 24. und 25. Oktober, zur Offenen Werkstatt. Mit gleich vier mobilen Makerspaces zeigt das [Netzwerk Offener Werkstätten Brandenburg](https://offene-werkstaetten-brandenburg.de/), welche Möglichkeiten gemeingutorientierte Produktionsorte haben. Eine Ausstellung zeigt gute Beispiele, die in den Werkstätten oder durch ihre Gemeinschaften entwickelt wurden.
 
 Alle sind eingeladen, die Werkstätten zu entdecken, Geräte auszuprobieren, mitzudiskutieren oder sich an vermeintlich kaputten Gegenständen reparierend zu versuchen. Denn der Sonntag ist nur der Start eines zweijährigen Projektes. Mit dem Verbundvorhaben [„Mobilefablabs: WI+R Verbundswerkstatt Lausitz“ (MoFab)](https://digitale-reparaturfabrik.de/projekte/) möchten wir mit Brandenburger Bürgern und Bürgerinnen ganz konkrete technische Lösungen entwickeln, die unsere Region weiterbringen. Wir sind eine Region mit vielen handwerklichen Fähigkeiten, einer starken Reparaturkultur und guten Ideen. Zusammen verwirklichen wir sie.
 
@@ -22,8 +22,9 @@ Auf dem [Altmarkt in Cottbus](https://www.openstreetmap.org/#map=19/51.76071/14.
 
 ### Am 24. Oktober: 12 Uhr bis 19 Uhr
 * Ausstellung von Technologien von der Zivilgesellschaft für die Zivilgesellschaft, mit Exponanten von [Careables](https://www.careables.org/)
-* Repair Café: Hinter der Fassade meines Smartphones
+* Repair Café: Bringt eure kaputten Gegenstände mit, wir reparieren sie gemeinsam!
 * Rundgang: Werkstätten der Zukunft
+* Kinderwerkstatt: an der [Lastenrad-Werkstatt der Technischen Hochschule Brandenburg](https://offene-werkstatt.th-brandenburg.de/services/offene-werkstatt/fuer-externe/kleinmaschinen-auf-lastenrad/)
 
 <br><br>
 ### Am 25. Oktober
