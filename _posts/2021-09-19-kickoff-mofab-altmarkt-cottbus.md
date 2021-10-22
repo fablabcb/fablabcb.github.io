@@ -38,4 +38,8 @@ Auf dem [Altmarkt in Cottbus](https://www.openstreetmap.org/#map=19/51.76071/14.
   * Wolfgang Luplow - AWO Brandenburg Süd
   * Mario Parade - Wissenschaftsladen Potsdam
 * 12:00 Get together
+  * Ausstellung von Technologien von der Zivilgesellschaft für die Zivilgesellschaft, mit Exponanten von [Careables](https://www.careables.org/)
+  * Repair Café: Bringt eure kaputten Gegenstände mit, wir reparieren sie gemeinsam!
+  * Rundgang: Werkstätten der Zukunft
+  * Kinderwerkstatt: an der [Lastenrad-Werkstatt der Technischen Hochschule Brandenburg](https://offene-werkstatt.th-brandenburg.de/services/offene-werkstatt/fuer-externe/kleinmaschinen-auf-lastenrad/)
 * Ende: 16 Uhr
