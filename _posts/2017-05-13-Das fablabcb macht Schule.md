@@ -11,7 +11,7 @@ image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/05/18056905_4145287
 author: Maximilian Voigt
 
 ---
-Seit dem 30.11.2016 verlagert das FabLab Cottbus jeden Mittwoch für eine Stunde seine Werkstatt in die <a href="http://www.nevoigt-grundschule.de/" target="_blank" rel="noopener">Wilhelm-Nevoigt Grundschule Cottbus</a>. Dort lernten die Schüler\*innen Magnetismus, Strom sowie Spannung kennen und bauten sowohl kleine Laufroboter als auch Elektromotoren. Den Ablauf der Workshops sowie die Erfahrungen, die Nanu Frechen, Jannick Schilling und Maximilian Voigt dabei gemacht haben, könnt ihr in unserem <a href="http://fablab-cottbus.de/index.php/Workshop_an_der_Wilhelm-Nevoigt_Grundschule" target="_blank" rel="noopener">Wiki-Eintrag über das Projekt</a> nachlesen.
+Seit dem 30.11.2016 verlagert das FabLab Cottbus jeden Mittwoch für eine Stunde seine Werkstatt in die <a href="http://www.nevoigt-grundschule.de/" target="_blank" rel="noopener">Wilhelm-Nevoigt Grundschule Cottbus</a>. Dort lernten die Schüler\*innen Magnetismus, Strom sowie Spannung kennen und bauten sowohl kleine Laufroboter als auch Elektromotoren. Den Ablauf der Workshops sowie die Erfahrungen, die Nanu Frechen, Jannick Schilling und Maximilian Voigt dabei gemacht haben, könnt ihr in unserem <a href="https://community.fablab-cottbus.de/c/projekte/workshop-an-der-wilhelm-nevoigt-grundschule/36" target="_blank" rel="noopener">Community-Beitrag über das Projekt</a> nachlesen.
 In Zukunft möchten wir das Angebot für Schüler\*innen ausweiten und Workshops in unseren eigenen Räumen anbieten. Wenn Interesse an diesem Vorhaben besteht, schreibt uns gerne!
 
 <strong>Einer der BEAM-Roboter, der im Rahmen des Workshops gebaut wurde.</strong>
