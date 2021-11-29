@@ -3,7 +3,7 @@ layout: post
 title: "Kickoff MoFab: Reparieren, erhalten, erfinden"
 teaser: "Am 24. & 25. Oktober wird der Altmarkt zur Offenen Werkstatt - und du bist eingeladen"
 teaser_img_src: https://offene-werkstaetten-brandenburg.de/assets/img/static/Fabmobil_Aktion18-800x434-1.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: https://offene-werkstaetten-brandenburg.de/assets/img/static/Fabmobil_Aktion18-800x434-1.jpg
 header_background: https://offene-werkstaetten-brandenburg.de/assets/img/static/Fabmobil_Aktion18-800x434-1.jpg
