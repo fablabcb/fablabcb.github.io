@@ -3,7 +3,7 @@ layout: post
 title: "Jugend-Lab: Bau dir deinen eigenen Roboter!"
 teaser: "Am 18. Februar öffnet das FabLab speziell für Jugendliche und Roboter Liebhaber und Liebhaberinnen - um 16 Uhr geht's los!"
 teaser_img_src: /assets/img/blog/ottoh_center.png
-featured: true
+featured: false
 categories: Events
 twitter_large_img: /assets/img/blog/ottoh_center.png
 header_background: /assets/img/blog/ottoh_center.png
