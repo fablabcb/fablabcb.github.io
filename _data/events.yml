@@ -49,3 +49,10 @@
   city:
   featured: true
   id: "0008"
+- name: Chaostreff
+  url: 'https://chaos-cb.de/'
+  date: Jeden Freitag
+  time: 20 Uhr
+  city:
+  featured: true
+  id: "0009"
