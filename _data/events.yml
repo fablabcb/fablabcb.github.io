@@ -37,21 +37,21 @@
   id: "0006"
 - name: Jugend-Lab
   url: '/projects/jugend-lab-cottbus/'
-  date: Jeden Montag
+  date: Montags
   time: 16 - 18 Uhr
   city:
   featured: true
   id: "0007"
 - name: Open-Data-Lab
   url: '/projects/open-data-lab-cottbus'
-  date: Jeden Donnerstag
+  date: Donnerstags
   time: 18:30 Uhr
   city:
   featured: true
   id: "0008"
 - name: Chaostreff
   url: 'https://chaos-cb.de/'
-  date: Jeden Freitag
+  date: Freitags
   time: 20 Uhr
   city:
   featured: true
