@@ -3,7 +3,7 @@ layout: post
 title: "Geschenke Lasern: unser Weihnachts-Workshopangebot"
 teaser: "Am 10. und 18.12. könnt ihr lernen, wie ihr mit 3D-Drucker und Laser Cutter eure Ideen realisiert - online und kostenfrei."
 teaser_img_src: /assets/img/blog/fabmobil_winter.jpeg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/fabmobil_winter.jpeg
 header_background: /assets/img/blog/fabmobil_winter.jpeg
