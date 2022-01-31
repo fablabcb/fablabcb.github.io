@@ -3,7 +3,7 @@ layout: post
 title: "NOW BB startet Lausitzer Tüftelseminarreihe"
 teaser: "Ab dem 27.01. startet das Netzwerk Offener Werkstätten Brandenburg eine Seminarreihe für Grundkenntnisse im Makerspace"
 teaser_img_src: /assets/img/blog/3d-druck.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/3d-druck.jpg
 header_background: /assets/img/blog/3d-druck.jpg
@@ -21,6 +21,9 @@ Unter diesem Motto veranstalten wir als Netzwerk der Offenen Werkstätten Brande
 Weitere Termine folgen und werden auf der Webseite des Netzwerkes veröffentlicht. Wenn du teilnehmen möchtest, schreibe uns bitte eine kurze Mail (an [mofab@fablab-cottbus.de](mailto:mofab@fablab-cottbus.de)).
 
 ### Workshoptermine
+
+**Februar/März/April 2022 Schaltungsdesign und Mikrocontroller-Prgrammierung**<br>
+Wie funktioniert ein Arduino und wie kann er eingesetzt werden? Wie designt ihr eure eigenen Schlatungen und macht sie für die Produktion einer Platine fertig? Wenn ihr Interesse an diesem Thema habt, meldet euch einfach über die angegebene E-Mail-Adresse. 
 
 **27.01.2022 16-18 Uhr Erste Schritte bei 3D-Druck und Modellierung**<br>
 Unter dem Thema “Kleine Alltagshelfer” zeigen wir dir, wie du von der Idee zum ersten 3D-Modell im Computer zum gedruckten Modell kommst. Nach einem einfachen Einstieg könnt ihr direkt loslegen und erste Schritte gehen. Am Ende seht ihr wie euer Alltagshelfer ausgedruckt wird. Es wird kein Vorwissen vorausgesetzt.
