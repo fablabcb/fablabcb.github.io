@@ -9,7 +9,7 @@ content: ""
 link: 'https://hackmd.okfn.de/buchscanner_calldoku#'
 contact-name: Maximilian Voigt
 contact-email: m.voigt@fablab-cottbus.de
-image_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+image_src: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
 firstelement: 2
 homepage: false
 featured: false

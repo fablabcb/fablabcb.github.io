@@ -9,7 +9,7 @@ content: ""
 link: 'https://fablab-cottbus.de/index.php/Audio_Board'
 contact-name: Marcel Jongmanns
 contact-email: mjongmanns@gmail.com
-image_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/09/7bc2e0373505d888e6d2c46266003f8a06238ef1.jpeg
+image_src: https://blog.fablab-cottbus.de/wp-content/uploads/2018/09/7bc2e0373505d888e6d2c46266003f8a06238ef1.jpeg
 firstelement: 2
 homepage: false
 featured: false
