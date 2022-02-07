@@ -2,16 +2,16 @@
 layout: post
 title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
 teaser: "Auf dem Weg zu einem vollständigen Open Source Hardware-System "
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
 featured: false
 categories: Projektnews
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
 author: Maximilian Voigt
 
 ---
-Mit der Unterstützung der Projekte <a href="https://edulabs.de/" rel="noopener" target="_blank">edulabs.de</a> und <a href="https://fragdenstaat.de/" rel="noopener" target="_blank">FragDenStaat.de</a> bauen wir mit der <a href="https://machbar-potsdam.de/" rel="noopener" target="_blank">machBar Potsdam</a> einen Open Source Hardware Buchscanner. Die Initiative basiert auf dem <a href="https://www.bookscanner.de/der-buchscanner/" rel="noopener" target="_blank">mäqädat-Projekt</a>. Dieses wiederum ist an die Arbeit von <a href="http://www.prismscanner.org/" rel="noopener" target="_blank">Dany Qumsiyeh</a> angelehnt, der den von ihm erfundenen <a href="https://linearbookscanner.org/" rel="noopener" target="_blank">linearen Buchscanner</a> (<a href="https://www.google.com/patents/US8711448" rel="noopener" target="_blank">US Patent 8711448</a>) zum <a href="https://code.google.com/archive/p/linear-book-scanner/" rel="noopener" target="_blank">Nachbau oder für Veränderungen freigegeben</a> hat.
+Mit der Unterstützung der Projekte <a href="https://edulabs.de/" rel="noopener" target="_blank">edulabs.de</a> und <a href="https://fragdenstaat.de/" rel="noopener" target="_blank">FragDenStaat.de</a> bauen wir mit der <a href="https://machbar-potsdam.de/" rel="noopener" target="_blank">machBar Potsdam</a> einen Open Source Hardware Buchscanner. Die Initiative basiert auf dem <a href="https://www.bookscanner.de/der-buchscanner/" rel="noopener" target="_blank">mäqädat-Projekt</a>. Dieses wiederum ist an die Arbeit von <a href="https://www.prismscanner.org/" rel="noopener" target="_blank">Dany Qumsiyeh</a> angelehnt, der den von ihm erfundenen <a href="https://linearbookscanner.org/" rel="noopener" target="_blank">linearen Buchscanner</a> (<a href="https://www.google.com/patents/US8711448" rel="noopener" target="_blank">US Patent 8711448</a>) zum <a href="https://code.google.com/archive/p/linear-book-scanner/" rel="noopener" target="_blank">Nachbau oder für Veränderungen freigegeben</a> hat.
 
 Die OKF nimmt sich damit dem Thema Open Source Hardware an, das durch die Erfolgsgeschichte offener Software-Projekte immer stärker in den Fokus gerät. Im Unterschied zur Software steht entwickelte Hardware nicht vom ersten Moment an unter dem Urheberrecht. Erst durch das Patent wird die Vervielfältigung von Hardware geschützt. Deswegen ist das Thema der freien Lizenz erst im zweiten Schritt spannend: wenn es zur Dokumentation kommt. Sie gibt Einblicke in die Funktionen eines Gerätes und ermöglicht den Nachbau. Open Hardware ist also in erster Linie ein Thema frei lizenzierter und zugänglicher Produktionsinformationen.
 

@@ -2,17 +2,17 @@
 layout: post
 title: "re:publica & Maker Faire: Unterwegs mit dem Brandenburger Netzwerk"
 teaser: "Besucht uns auf der der Maker Faire oder bei der re:publica!"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
 featured: false
 categories: Events Netzwerk
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2176-e1557075381978-1080x675.jpg
 author: Maximilian Voigt
 ---
 Der Mai ist wie jedes Jahr ein Monat zahlreicher toller Veranstaltungen. Wir freuen uns, dass wir auch 2019 wieder einen Stand auf der <a href="https://maker-faire.de/berlin/" target="_blank" rel="noopener noreferrer">Maker Faire Berlin</a> organisieren können! Gemeinsam mit dem <a href="https://offene-werkstaetten-brandenburg.de/" target="_blank" rel="noopener noreferrer">Netzwerk Offener Werkstätten Brandenburg</a> werden wir zahlreiche Workshops anbieten und Einblicke in Projekte ermöglichen - mehr gibt es im <a href="https://maker-faire.de/maker/netzwerk-offener-werkstaetten-brandenburg/" target="_blank" rel="noopener noreferrer">Programm</a>. Wie im letzten Jahr wird auch dieses Mal wieder das mobile FabLab der machBar Potsdam dabei sein.
 
-<div class="video"><img src="http://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2083-1024x678.jpg" alt="" width="1024" height="678" class="alignnone size-large wp-image-1964" /></div>
+<div class="video"><img src="https://blog.fablab-cottbus.de/wp-content/uploads/2019/05/DSC_2083-1024x678.jpg" alt="" width="1024" height="678" class="alignnone size-large wp-image-1964" /></div>
 
 Neben der Maker Faire sind wir mit dem Brandenburger Netzwerk auch Partner der diesjährigen <a href="https://19.re-publica.com/de" target="_blank" rel="noopener noreferrer">re:publica</a>. Ab dem 6. Mai findet ihr uns im Makerspace-Bereich der Veranstaltung.
 

@@ -2,15 +2,15 @@
 layout: post
 title: "Tag der offenen Werkstatt: das Fabmobil zu Besuch"
 teaser: "Wir möchten unsere Werkstatt auch für Jugendliche öffnen und starten ein Jugend-Lab. Das Fabmobil eröffnet mit uns die neuen Möglichkeiten."
-teaser_img_src: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
+teaser_img_src: https://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
 featured: false
 categories: Projektnews Events
-twitter_large_img: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
-header_background: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
-image: http://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
+twitter_large_img: https://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
+header_background: https://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
+image: https://fabmobil.org/wp-content/uploads/FABMOBIL3-1.jpg
 author: Maximilian Voigt
 ---
-Ab dem 13. Dezember öffnen wir unsere Werkstatt zu einem besonderen Anlass: Das [Fabmobil](http://fabmobil.org/) - eine mobile Werkstatt in einem Doppeldecker-Bus - besucht Cottbus und wird bis zum 15. Dezember vor unseren Räumlichkeiten offen stehen. Gemeinsam mit Mädchen in Aktion organisieren wir ein buntes Wochenende, mit zahlreichen Angeboten.
+Ab dem 13. Dezember öffnen wir unsere Werkstatt zu einem besonderen Anlass: Das [Fabmobil](https://fabmobil.org/) - eine mobile Werkstatt in einem Doppeldecker-Bus - besucht Cottbus und wird bis zum 15. Dezember vor unseren Räumlichkeiten offen stehen. Gemeinsam mit Mädchen in Aktion organisieren wir ein buntes Wochenende, mit zahlreichen Angeboten.
 
 <div class="video"><iframe title="vimeo-player" src="https://player.vimeo.com/video/296473722" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
 

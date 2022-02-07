@@ -2,12 +2,12 @@
 layout: post
 title: "Samstags werden Wunschmaschinen gebaut"
 teaser: "Ab heute steht unsere Werkstatt jeden Samstag auch für Mitglieder offen."
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
 featured: false
 categories: Events
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/08/1.jpeg
 author: Maximilian Voigt
 
 ---

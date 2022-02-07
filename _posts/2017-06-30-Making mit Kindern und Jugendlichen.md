@@ -2,12 +2,12 @@
 layout: post
 title: "Making mit Kindern und Jugendlichen"
 teaser: "Wie gelingt die Vermittlung von technischen Kompetenzen?"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
 featured: false
 categories: Bildung
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
 author: Maximilian Voigt
 
 ---
@@ -15,5 +15,5 @@ Handwerkliches Arbeiten oder auch <a href="https://edulabs.de/blog/Interkulturel
 
 &nbsp;
 <ul>
- 	<li><a href="http://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf" target="_blank" rel="noopener">Making-Aktivitäten mit Kindern und Jugendlichen - Handbuch zum kreativen digitalen Gestalten</a></li>
+ 	<li><a href="https://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf" target="_blank" rel="noopener">Making-Aktivitäten mit Kindern und Jugendlichen - Handbuch zum kreativen digitalen Gestalten</a></li>
 </ul>

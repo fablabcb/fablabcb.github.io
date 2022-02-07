@@ -2,12 +2,12 @@
 layout: post
 title: "Spielzeug 3D-Drucker?"
 teaser: "Wohl kaum!"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
 featured: false
 categories: Projektnews Diskurs
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/waage_3d.jpg
 author: Maximilian Voigt
 
 ---

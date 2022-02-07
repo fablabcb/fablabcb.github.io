@@ -2,12 +2,12 @@
 layout: post
 title: "Technik & Mensch: eine Beziehungskriese"
 teaser: "Unser Vorstandsmitglied sprach auf der Konferenz 'Bits und Bäume'"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
 featured: false
 categories: Events Diskurs
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2018/11/Screenshot-2018-11-19-13.51.17-1080x675.png
 author: Maximilian Voigt
 ---
 Am vergangenen Wochenende trafen sich zahlreiche Aktive aus verschiedenen Bewegungen rund um das Thema Nachhaltigkeit in Berlin. Die Konferenz "<a href="https://bits-und-baeume.org/de" rel="noopener" target="_blank">Bits & Bäume</a>" hatte das Ziel der Vernetzung dieser unterschiedlichen Communities. Es ging um Fragen wie:

@@ -2,16 +2,16 @@
 layout: post
 title: "Rückblick: Über das Kryptogeld Bitcoin & Etherum"
 teaser: "Workshop zur Kryptowährungen anlässlich der EU Code Week"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
 featured: false
 categories: Events
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/10/blockchain_workshop.jpg
 author: Hannes Wenzel
 
 ---
-Anlässlich der <a href="http://codeweek.eu/">EU Code Week</a> wurde im Fablab der Themenkomplex Kryptogeld an den Beispielen <a href="https://bitcoin.org/de/" target="_blank" rel="noopener">Bitcoin</a> und <a href="https://ethereum.org" target="_blank" rel="noopener">Ethereum</a> besprochen. Beide haben in den letzten Jahren große Wellen geschlagen und zu zahlreichen Innovationen in der Finanztechnologie (kurz <em>FinTech</em>) geführt.
+Anlässlich der <a href="https://codeweek.eu/">EU Code Week</a> wurde im Fablab der Themenkomplex Kryptogeld an den Beispielen <a href="https://bitcoin.org/de/" target="_blank" rel="noopener">Bitcoin</a> und <a href="https://ethereum.org" target="_blank" rel="noopener">Ethereum</a> besprochen. Beide haben in den letzten Jahren große Wellen geschlagen und zu zahlreichen Innovationen in der Finanztechnologie (kurz <em>FinTech</em>) geführt.
 
 Dabei geht es um einen ganz alltäglichen Vorgang, nämlich den des Überweisens von Geld. Anders als etwa im Alltag, wo wir Überweisungen über die Bank regeln, wird im Falle einer Cryptowährung keine Bank benötigt - der Vorgang läuft dezentral ab. Dennoch sollen Überweisungen zügig, sicher, günstiger und genauso einfach abgewickelt werden können, wie bei der Bank.
 
@@ -30,7 +30,7 @@ Rückblickend lässt sich sagen, dass wir eine erkenntnisreiche Diskussion in an
  	<li>auf der <a href="https://bitcoin.org/de/" target="_blank" rel="noopener">offiziellen Bitcoin-Projektseite</a> gibt es ein Erklärvideo und leicht verständliche Erklärungen,</li>
  	<li>im (leider nur englischsprachigen) <a href="https://en.bitcoin.it/wiki/Main_Page" target="_blank" rel="noopener">Bitcoin-Wiki</a> werden die Themen etwas detaillierter dargestellt,</li>
  	<li>ausführliche Informationen zu jedem Block findet man bei <a href="https://blockchain.info/" target="_blank" rel="noopener">Blockchain.info</a>,</li>
- 	<li>außerdem gibt es eine Reihe von Blogs (<a href="https://bitcoinblog.de/" target="_blank" rel="noopener">Bitcoin-Blog</a>, <a href="http://bitcoinblogger.de/" target="_blank" rel="noopener">Bitcoin-Blogger</a>, …)</li>
+ 	<li>außerdem gibt es eine Reihe von Blogs (<a href="https://bitcoinblog.de/" target="_blank" rel="noopener">Bitcoin-Blog</a>, <a href="https://bitcoinblogger.de/" target="_blank" rel="noopener">Bitcoin-Blogger</a>, …)</li>
  	<li>die <a href="https://ethereum.org" target="_blank" rel="noopener">offizielle Ethereum-Projektseite</a> bietet keine so schöne Einführung, ein <a href="https://ethblog.de/was-ist-ethereum-eine-einfuehrung/#pll_switcher" target="_blank" rel="noopener">Blogger</a> hat sich hieran mal versucht.</li>
  	<li>ähnlich zu Blockchain.info gibt es <a href="https://etherscan.io" target="_blank" rel="noopener">Etherscan.io</a> und <a href="https://Etherchain.org" target="_blank" rel="noopener">Etherchain.org</a></li>
 </ul>

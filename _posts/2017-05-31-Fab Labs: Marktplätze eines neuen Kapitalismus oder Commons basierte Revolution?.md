@@ -2,12 +2,12 @@
 layout: post
 title: "Fab Labs: Marktplätze eines neuen Kapitalismus oder Commons basierte Revolution?"
 teaser: ""
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
 featured: false
 categories: Bildung Diskurs
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
 author: Maximilian Voigt
 
 ---
@@ -20,6 +20,6 @@ Offene Werkstätten müssen diese Aspekte diskutieren, um das eigene Selbstverst
 &nbsp;
 <ul>
  	<li>Dieser <a href="https://blog.p2pfoundation.net/essay-day-making-smart-city-emergence-makerspaces/2017/05/30" target="_blank" rel="noopener noreferrer">Essay von Vasilis Niaros</a> fasst den Diskurs auch für Einsteiger gut zusammen.</li>
- 	<li>Ebenfalls einen Überblick, aber einen sehr viel breiteren, liefert <a href="http://www.transcript-verlag.de/978-3-8376-2382-6/fablab" target="_blank" rel="noopener noreferrer">dieses Buch</a> (Bei Lektüre-Bedarf bitte melden).</li>
+ 	<li>Ebenfalls einen Überblick, aber einen sehr viel breiteren, liefert <a href="https://www.transcript-verlag.de/978-3-8376-2382-6/fablab" target="_blank" rel="noopener noreferrer">dieses Buch</a> (Bei Lektüre-Bedarf bitte melden).</li>
  	<li>Potenziale für den Bildungsbereich behandelt <a href="https://www.researchgate.net/publication/277928106_The_Maker_Movement_in_Education" target="_blank" rel="noopener noreferrer">dieser Essay</a>.</li>
 </ul>

@@ -2,12 +2,12 @@
 layout: post
 title: "Unser Repair Café geht online!"
 teaser: "Ab dem 7.11. findet unser Repair Café online statt - klickt euch rein, lernt etwas über das Reparieren oder holt euch Hilfe bei euren Reparatur-Problemen!"
-teaser_img_src: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
 featured: false
 categories: Events Bildung
-twitter_large_img: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
-header_background: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
-image: http://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+image: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
 author: Maximilian Voigt
 header_background_caption: "Foto: CC BY 4.0 FabLab Cottbus"
 
