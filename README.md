@@ -7,7 +7,7 @@ Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](h
 # Local development
 
 * Install ruby 
-* Install Jekyll / bundler
+* Install jekyll / bundler
 * Serve files with jekyll "bundle exec jekyll serve"
 
 # License
