@@ -1,8 +1,14 @@
-# Die Website des Fablab Cottbus e.V.
+# Das ist der Code zur [Website des Fablab Cottbus e.V.](https://fablab-cottbus.de/)
 
 Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](https://edulabs.de/), die CC-by lizenziert ist.
 
 <img src="assets/img/static/fablabLogo farbig weiß_main.png" width="300" align="center">
+
+# Local development
+
+* Install ruby 
+* Install Jekyll / bundler
+* Serve files with jekyll "bundle exec jekyll serve"
 
 # License
 
