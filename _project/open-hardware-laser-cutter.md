@@ -9,7 +9,7 @@ content: ""
 link: ''
 contact-name: Marcel Jongmanns
 contact-email: mjongmanns@gmail.com
-image_src: https://github.com/fablabcb/fablabcb.github.io/blob/master/assets/img/projects/lasersaur_slides_01.jpg
+image_src: https://raw.githubusercontent.com/fablabcb/fablabcb.github.io/master/assets/img/projects/lasersaur_slides_01.jpg
 firstelement: 2
 homepage: true
 featured: false
