@@ -11,7 +11,7 @@ contact-name: Tobias Recke
 contact-email: t.recke@e.email
 slug: open-data-lab-cottbus
 image_src: /assets/img/projects/logo.svg
-firstelement: 1
+firstelement: 2
 homepage: true
 featured: false
 ---

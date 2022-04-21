@@ -80,9 +80,11 @@
                         {% endfor %}
                     </div>
                 </div>
-                <div class="content-wrap btn-wrap">
-                    <a class="edu-btn black" href="{{ page.link }}" target="_blank">Projektlink</a>
-                </div>
+                {% if page.link != "" %}
+                    <div class="content-wrap btn-wrap">
+                        <a class="edu-btn black" href="{{ page.link }}" target="_blank">Projektlink</a>
+                    </div>
+                {% endif %}
             </div>
         </section>
 
