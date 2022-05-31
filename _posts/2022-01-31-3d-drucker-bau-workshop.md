@@ -3,7 +3,7 @@ layout: post
 title: "Tüftel-Spezial: 3D-Drucker bauen in Guben"
 teaser: "Am 18. und 19. Februar könnt ihr unter Anleitung in Guben euren eigenen 3D-Drucker bauen - jetzt anmelden"
 teaser_img_src: /assets/img/blog/3d-drucken.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/3d-drucken.jpg
 header_background: /assets/img/blog/3d-drucken.jpg
