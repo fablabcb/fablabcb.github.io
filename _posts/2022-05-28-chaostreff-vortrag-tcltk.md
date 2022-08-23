@@ -3,7 +3,7 @@ layout: post
 title: "Chaostreff Tech Talk: Skriptsprache Tcl/Tk"
 teaser: "Zum Start unserer Tech Talk Reihe geht es um die Skriptsprache Tcl/Tk - einfach und vielseitig zugleich"
 teaser_img_src: /assets/img/blog/chaoscb-techtalk-tcltk.jpg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: /assets/img/blog/chaoscb-techtalk-tcltk.jpg
 header_background: /assets/img/blog/chaoscb-techtalk-tcltk.jpg
