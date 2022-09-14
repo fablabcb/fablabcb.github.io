@@ -25,9 +25,9 @@
 - name: Repair Café
   url:
   date: Jeden 1. Samstag
-  time: 14 - 18 Uhr
+  time: 14 - 17 Uhr
   city:
-  featured: false
+  featured: true
   id: "0005"
 - name: "#FlattenTheCurve<br><br>Das FabLab ist aktuell geschlossen! Wir arbeiten an einer Neueröffnung im Oktober."
   url:
@@ -47,7 +47,7 @@
   date: Donnerstags
   time: 18:30 Uhr
   city:
-  featured: true
+  featured: false
   id: "0008"
 - name: Chaostreff
   url: 'https://chaos-cb.de/'
