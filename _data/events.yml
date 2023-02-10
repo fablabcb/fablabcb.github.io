@@ -35,10 +35,10 @@
   city:
   featured: false
   id: "0006"
-- name: Jugend-Lab
-  url: '/projects/jugend-lab-cottbus/'
-  date: Montags
-  time: 16 - 18 Uhr
+- name: Open Hackspace
+  url: 'https://community.fablab-cottbus.de/c/labs/open-hackspace/8'
+  date: Mittwochs
+  time: 17 - 19 Uhr
   city:
   featured: true
   id: "0007"
@@ -50,9 +50,16 @@
   featured: false
   id: "0008"
 - name: Chaostreff
-  url: 'https://chaos-cb.de/'
-  date: Freitags
+  url: 'https://community.fablab-cottbus.de/c/32'
+  date: i.d.R. Freitags
   time: 20 Uhr
   city:
   featured: true
   id: "0009"
+- name: Öffnungszeiten
+  url: 'https://community.fablab-cottbus.de/t//306
+  date:
+  time:
+  city:
+  featured: true
+  id: "0010"
