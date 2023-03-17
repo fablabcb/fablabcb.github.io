@@ -3,7 +3,7 @@ layout: post
 title: "Tag des offenen Hackerspace"
 teaser: "Bundesweiter Aktionstag am 27. August"
 teaser_img_src: /assets/img/blog/offener-hackerspace.jpg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: /assets/img/blog/offener-hackerspace.jpg
 header_background: /assets/img/blog/offener-hackerspace.jpg
