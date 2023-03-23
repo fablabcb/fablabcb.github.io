@@ -2,12 +2,12 @@
 layout: post
 title: "Reparieren helfen, reparieren lernen"
 teaser: "Am 1. April machen wir keine Scherze, haben aber trotzdem Spaß: beim gemeinsamen Reparieren. Wir laden alle ein, die erste Schritte in der Reparatur gehen möchten oder sich als Reparaturexperten und -expertinnen verstehen. Wir möchten mit euch voneinander lernen und einen schönen Samstag verbringen."
-teaser_img_src: /assets/img/blog/repair.JPG
+teaser_img_src: /assets/img/blog/repair_social.JPG
 featured: true
 categories: Events
-twitter_large_img: /assets/img/blog/repair.JPG
+twitter_large_img: /assets/img/blog/repair_social.JPG
 header_background: /assets/img/blog/repair.JPG
-image: /assets/img/blog/repair.JPG
+image: /assets/img/blog/repair_social.JPG
 author: Maximilian Voigt
 header_background_caption: "Foto: Maximilian Voigt"
 
