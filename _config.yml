@@ -17,7 +17,7 @@ email: info@fablab-cottbus.de
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: fablabcb
 permalink: /blog/:title
-url: "www.fablab-cottbus.de"
+url: "https://fablab-cottbus.de/"
 
 # Build settings
 highlighter: rouge
