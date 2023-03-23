@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="author" content="www.fablab-cottbus.de">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/fablab.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/assets/img/static/fablab.ico">
     {% if page.twitter_large_img %}
     <meta name="twitter:card" content="summary_large_image" />
     {% else %}
@@ -14,10 +14,10 @@
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.teaser }}" />
     {% if page.twitter_large_img %}
-    <meta name="twitter:image" content="{{ page.twitter_large_img }}" />
+    <meta name="twitter:image" content="{{site.url}}{{ page.twitter_large_img }}" />
     {% endif %}
     {% if page.twitter_img %}
-    <meta name="twitter:image" content="{{ page.twitter_img }}" />
+    <meta name="twitter:image" content="{{site.url}}{{ page.twitter_img }}" />
     {% endif %}
     <link rel="stylesheet" href="/assets/main.css">
     {% seo %}
