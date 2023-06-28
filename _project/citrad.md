@@ -10,7 +10,7 @@ link:
 contact-name: Maximilian Voigt
 contact-email: m.voigt@fablab-cottbus.de
 slug: CitRad
-image_src: /assets/img/projects/citrad.png
+image_src: /assets/img/projects/citrad_sensor.jpg
 firstelement: 1
 homepage: true
 featured: true
