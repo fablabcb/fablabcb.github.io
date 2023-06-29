@@ -3,7 +3,7 @@ layout: post
 title: "Kostenloses Lastenrad zentral in Cottbus"
 teaser: "Wir haben über Fördermittel des Landes Brandenburg ein Lastenrad angeschafft. Es soll in Zukunft nicht nur von unseren Mitglieder sondern von allen kostenlos ausgeliehen werden, die kein Auto haben oder darauf verzichten wollen. Getauft haben wir es auf den Namen FabSchlepp."
 teaser_img_src: /assets/img/blog/fabschlepp.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/blog/fabschlepp.jpg
 header_background: /assets/img/blog/fabschlepp.jpg
