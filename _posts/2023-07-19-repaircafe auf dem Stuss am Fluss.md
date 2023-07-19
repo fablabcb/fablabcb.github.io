@@ -3,7 +3,7 @@ layout: post
 title: "Repaircafé auf dem Stuss am Fluss"
 teaser: "Unser allmonatliches Repaircafé wird im August nicht in unseren Räumen sondern auf dem Stuss am Fluss Festival in der Stromstraße 14 stattfinden."
 teaser_img_src: repaircafesymbol.png
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/projects/repaircafesymbol.png
 header_background: /assets/img/projects/repaircafesymbol.png
