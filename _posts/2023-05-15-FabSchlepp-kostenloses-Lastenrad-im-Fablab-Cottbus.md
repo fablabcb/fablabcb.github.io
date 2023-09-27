@@ -8,7 +8,7 @@ categories: Projektnews
 twitter_large_img: /assets/img/blog/fabschlepp.jpg
 header_background: /assets/img/blog/fabschlepp.jpg
 image: /assets/img/blog/fabschlepp.jpg
-author: Benedikt Stahl
+author: Bene
 header_background_caption: "Foto: Benedikt Stahl"
 
 ---
