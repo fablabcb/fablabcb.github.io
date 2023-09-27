@@ -9,7 +9,7 @@ twitter_large_img: /assets/img/blog/schweißen.JPG
 header_background: /assets/img/blog/schweißen.JPG
 image: /assets/img/blog/schweißen.JPG
 author: Maximilian Voigt
-header_background_caption: "Foto: Benedikt Stahl"
+header_background_caption: "Foto: Fablab Cottbus"
 
 ---
 
