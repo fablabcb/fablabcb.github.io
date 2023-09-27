@@ -21,6 +21,8 @@ Reparaturexperten, die ihre Erfahrung im Repaircafé einbringen und Leuten bei d
 
 Wir sehen uns am 7. Oktober um 13:30/14:00 Uhr!
 
+Alle weiteren [Infos zum Repaircafé in Cottbus](https://community.fablab-cottbus.de/t/ueber-das-repaircafe-des-fablab-cottbus-e-v/62)
+
 - - -
 We want to use the upcoming Repaircafé to meet half an hour 13:30 earlier and exchange ideas about 3D printing (and repair). Questions can be asked, tips & tricks shared or even own projects can be presented. All 3D printing newbies and experts are invited.
 
