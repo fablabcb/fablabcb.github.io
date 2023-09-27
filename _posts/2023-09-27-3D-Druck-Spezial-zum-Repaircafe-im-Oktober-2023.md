@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3D-Druck Spezial zum Repaircafé am 7. Oktober 2023"
-teaser: "Das kommende Repaircafé wollen wir nutzen um uns eine halbe Stunde 13:30 früher zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen."
+teaser: "Das kommende Repaircafé wollen wir nutzen, um uns eine halbe Stunde früher (13:30 Uhr) zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen."
 teaser_img_src: /assets/img/projects/3dspezrepair.png
 featured: true
 categories: Events
@@ -13,7 +13,7 @@ header_background_caption: "Foto:BS"
 
 ---
 [english below]
-Das kommende Repaircafé wollen wir nutzen um uns eine halbe Stunde 13:30 früher zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen. Es können Fragen gestellt, Tipps & Tricks geteilt oder auch eigene Projekte vorgestellt werden. Alle 3D-Druck-Neulinge und Experten sind herzlich eingeladen.
+Das kommende Repaircafé wollen wir nutzen, um uns eine halbe Stunde früher, um 13:30 Uhr) zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen. Es können Fragen gestellt, Tipps & Tricks geteilt oder auch eigene Projekte vorgestellt werden. Alle 3D-Druck-Neulinge und Experten sind herzlich eingeladen.
 
 Ab 14 Uhr starten wir dann mit dem klassischen Repaircafé: Bringt eure kaputten Geräte und wir wir helfen euch in entspannter Atmosphäge - bei Kaffee und Kuchen – eure Technik zu verstehen und selbst wieder zum laufen zu bringen. 
 
