@@ -7,7 +7,7 @@ featured: true
 categories: Events
 twitter_large_img: /assets/img/projects/3dspezrepair.png
 header_background: /assets/img/projects/3dspezrepair.png
-image: 3dspezrepair.png
+image: /assets/img/projects/3dspezrepair.png
 author: Bene
 header_background_caption: "Foto:BS"
 
