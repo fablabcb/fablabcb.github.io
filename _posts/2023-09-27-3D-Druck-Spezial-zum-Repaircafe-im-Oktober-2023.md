@@ -29,5 +29,3 @@ From 2 p.m. we will start with the classic Repair Café: Bring your broken devic
 Repair experts who want to bring their experience to the Repaircafé and help people with repairs are invited for pizza and a drink afterwards.
 
 See you on October 7 at 1:30/14:00pm!
-
-Translated with www.DeepL.com/Translator (free version)
