@@ -15,7 +15,7 @@ header_background_caption: "Foto:BS"
 [english below]
 Das kommende Repaircafé wollen wir nutzen, um uns eine halbe Stunde früher, um 13:30 Uhr) zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen. Es können Fragen gestellt, Tipps & Tricks geteilt oder auch eigene Projekte vorgestellt werden. Alle 3D-Druck-Neulinge und Experten sind herzlich eingeladen.
 
-Ab 14 Uhr starten wir dann mit dem klassischen Repaircafé: Bringt eure kaputten Geräte und wir wir helfen euch in entspannter Atmosphäge - bei Kaffee und Kuchen – eure Technik zu verstehen und selbst wieder zum laufen zu bringen. 
+Ab 14 Uhr starten wir dann mit dem klassischen Repaircafé: Bringt eure kaputten Geräte und wir wir helfen euch in entspannter Atmosphäre - bei Kaffee und Kuchen – eure Technik zu verstehen und selbst wieder zum laufen zu bringen. 
 
 Reparaturexperten, die ihre Erfahrung im Repaircafé einbringen und Leuten bei der Reparatur helfen wollen sind im Anschluss auf Pizza und ein Getränk eingeladen.
 
