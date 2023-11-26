@@ -8,7 +8,7 @@ categories: Events
 twitter_large_img: /assets/img/projects/repaircafesymbol.png
 header_background: /assets/img/projects/repaircafesymbol.png
 image: repaircafesymbol.png
-author: Benedikt Stahl
+author: Benel
 header_background_caption: "Foto:BS"
 
 ---

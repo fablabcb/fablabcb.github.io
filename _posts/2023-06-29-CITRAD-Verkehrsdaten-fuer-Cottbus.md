@@ -3,7 +3,7 @@ layout: post
 title: "CitRad: Verkehrsdaten für Cottbus"
 teaser: "Wie viele Autos oder Fahrräder fahren in meiner Straße? Wird die Geschwindigkeit häufig übertreten? Wir bauen ein System, mit dem ihr selbst messen könnt."
 teaser_img_src: /assets/img/projects/citrad_sensor.jpg
-featured: true
+featured: false
 categories: Projektnews
 twitter_large_img: /assets/img/projects/citrad_sensor.jpg
 header_background: /assets/img/projects/citrad_sensor.jpg
