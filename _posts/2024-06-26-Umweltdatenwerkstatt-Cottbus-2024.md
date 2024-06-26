@@ -20,6 +20,7 @@ Mit dieser Frage möchten wir uns mit euch in der Umweltdatenwerkstatt befassen 
 * Mit Sensorik und [Easyhive](https://easyhive.org/) der Bienengesundheit auf der Spur
 * Gemeinsam und mit dem AI. Citizen Science Aqua Network für mehr Wasserqualität von öffentlichen Gewässern
 
+<br><br>
 ## Mitmachen und anmelden
 Eingeladen sind alle, die den Umweltschutz voranbringen und dabei den Nutzen von digitalen Technologien abwägen möchten. Ihr benötigt keine besonderen Vorkenntnisse. An zwei Tagen entwickeln wir Lösungsansätze für konkrete Probleme, lernen voneinander und haben Spaß am gemeinsamen Arbeiten. Zwischendurch gibt es Kurzvorträge zu Grundlagen rund um sogenannte "künstliche Intelligenz", wir ihr mit offenen Daten arbeitet und welche Tools euch praktisch helfen können. Dabei gibt es genug Zeit für informellen Austausch, bei einem gemeinsamen Mittagessen oder dem abendlichen Ausklang. Die Veranstaltung ist für euch kostenlos.
 
