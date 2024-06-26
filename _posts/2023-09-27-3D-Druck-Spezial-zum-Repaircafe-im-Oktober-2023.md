@@ -3,7 +3,7 @@ layout: post
 title: "3D-Druck Spezial zum Repaircafé am 7. Oktober 2023"
 teaser: "Das kommende Repaircafé wollen wir nutzen, um uns eine halbe Stunde früher (13:30 Uhr) zu treffen und uns zum Thema 3D-Druck (und Reparatur) auszutauschen."
 teaser_img_src: /assets/img/projects/3dspezrepair.png
-featured: true
+featured: false
 categories: Events
 twitter_large_img: /assets/img/projects/3dspezrepair.png
 header_background: /assets/img/projects/3dspezrepair.png
