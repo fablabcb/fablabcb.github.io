@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CitRad: Förderung durch Prototype Fund"
+title: "Förderung durch Prototype Fund: Neue Entwicklungen bei CitRad"
 teaser: "Der Prototype Fund fördert die Weiterentwicklung Auswertungroutine und der Datenplattform für das CitRad-Projekt"
 teaser_img_src: /assets/img/projects/citrad_website.jpg
 featured: true
