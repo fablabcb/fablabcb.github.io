@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "CitRad: Förderung durch Prototype Fund"
-teaser: "Der Prototype Fund fördert die Weiterentwicklung von Auswertung und Datenplattform für das CitRad-Projekt"
+teaser: "Der Prototype Fund fördert die Weiterentwicklung Auswertungroutine und der Datenplattform für das CitRad-Projekt"
 teaser_img_src: /assets/img/projects/citrad_website.jpg
-featured: false
+featured: true
 categories: Projektnews
 twitter_large_img: /assets/img/projects/citrad_website.jpg
 header_background: /assets/img/projects/citrad_website.jpg
