@@ -3,7 +3,7 @@ layout: post
 title: "Zusammen mehr Umweltschutz"
 teaser: "Du möchtest erfahren, wie wir mit Technologie den Umweltschutz stärken können? Dann komm am 13. und 14. Juli zur Umweltdatenwerkstatt Cottbus. Eingeladen sind alle Menschen mit Interesse am Umweltschutz und digitalen Technologien."
 teaser_img_src: https://datenschule.de/files/blog/2020/wasserlauf.jpg
-featured: true
+featured: false
 categories: Events
 twitter_large_img: https://datenschule.de/files/blog/2020/wasserlauf.jpg
 header_background: https://datenschule.de/files/blog/2020/wasserlauf.jpg
