@@ -1,0 +1,201 @@
+<!--
+SPDX-FileCopyrightText: 2023 Johann Galle
+SPDX-License-Identifier: Unlicense
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Lasercutter Preisrechner fablab Cottbus e.V.</title>
+		<style>
+			body {
+				text-align: center;
+				max-width: 80em;
+				margin: auto;
+				font-family: sans-serif;
+				font-size: 1.2em;
+				font-variant-numeric: tabular-nums;
+			}
+			noscript {
+				color: red;
+			}
+			table {
+				margin: auto;
+				border-collapse: collapse;
+				border: 1px solid grey;
+				vertical-align: top;
+			}
+			td, th {
+				text-align: right;
+				padding: .5em .1em .5em .7em;
+			}
+			td:last-child, th:last-child {
+				padding-right: .7em;
+			}
+			th {
+				text-align: center;
+				border-bottom: 2px solid black;
+			}
+			tr:nth-child(2n) {
+				background: lightgrey;
+			}
+			tr > .unit {
+				text-align: left;
+				padding-left: .1em;
+			}
+			.grandtotal {
+				border-bottom: 3px double black;
+				vertical-align: top;
+			}
+		</style>
+	</head>
+	<body>
+		<noscript>
+			Zum Ausführen der Berechnungen wird JavaScript verwendet.
+			Wenn JavaScript nicht verfügbar oder nicht aktiviert ist, kann dieser Rechner leider nicht verwendet werden.
+		</noscript>
+		<h1>Lasercutter Preisrechner</h1>
+		<h2>fablab Cottbus e.V.</h2>
+		<table>
+			<thead>
+				<tr>
+					<th>Beschreibung</th>
+					<th colspan="2">Grundpreis</th>
+					<th colspan="2">Multiplikator</th>
+					<th>Summe</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td><label for="vorbereiten-in">Datei für Bearbeitung vorbereiten</label></td>
+					<td>15.00</td>
+					<td class="unit" aria-label="Euro">€</td>
+					<td><input type="number" id="vorbereiten-in" value="0" min="0" max="1" step="1"/></td>
+					<td class="unit"></td>
+					<td><output id="vorbereiten-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td><label for="konvertieren-in">Aus anderem Dateiformat konvertieren</label></td>
+					<td>5.00</td>
+					<td class="unit" aria-label="Euro">€</td>
+					<td><input type="number" id="konvertieren-in" value="0" min="0" max="1" step="1"/></td>
+					<td class="unit"></td>
+					<td><output id="konvertieren-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td><label for="anpassen-in">Datei anpassen</label></td>
+					<td>20.00</td>
+					<td class="unit" aria-label="Euro pro Stunde">€/h</td>
+					<td><input type="number" id="anpassen-in" value="0.0" min="0" step="0.1"/></td>
+					<td class="unit" aria-label="Stunden">h</td>
+					<td><output id="anpassen-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td><label for="tests-in">Tests zur Machbarkeit bzw. Maßgenauigkeit</label></td>
+					<td>20.00</td>
+					<td class="unit" aria-label="Euro pro Stunde">€/h</td>
+					<td><input type="number" id="tests-in" value="0.0" min="0" step="0.1"/></td>
+					<td class="unit" aria-label="Stunden">h</td>
+					<td><output id="tests-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td><label for="abschreibung-in">Abschreibung Lasercutter</label></td>
+					<td>0.50</td>
+					<td class="unit" aria-label="Euro pro Minute">€/min</td>
+					<td rowspan="2"><input type="number" id="abschreibung-in" value="1.0" min="0.1" step="0.1"/></td>
+					<td rowspan="2" class="unit" aria-label="Minuten">min</td>
+					<td><output id="abschreibung-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td>Anteilige Wartungskosten (Kalibrierung, Reparaturen)</td>
+					<td>0.70</td>
+					<td class="unit" aria-label="Euro pro Minute">€/min</td>
+					<td><output id="wartung-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td><label for="rabatt-in">Rabatt</label></td>
+					<td colspan="4">
+						<select id="rabatt-in">
+							<option selected value="0">keiner (kommerziell)</option>
+							<option value="0.25">Privatpersonen (-25 %)</option>
+							<option value="0.5">Sozialrabatt (-50 %)</option>
+							<option value="0.75">eigenständig arbeitende Mitglieder (-75 %)</option>
+						</select>
+					</td>
+					<td><output id="rabatt-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td colspan="5">Zwischensumme ohne Material</td>
+					<td class="total"><output id="zws-ohne-mat">?</output> €</td>
+				</tr>
+				<tr>
+					<td>
+						<label for="material-factor">Material</label>
+						<select id="material-factor">
+							<option value="31">Buche 3mm</option>
+							<option value="35">Plexiglas 3mm</option>
+							<option value="28">Pappel 3mm</option>
+						</select>
+					</td>
+					<td><output id="material-preis"></output></td>
+					<td class="unit" aria-label="Euro pro Platte">€/Platte</td>
+					<td><input type="number" id="material-in" value="0.0" min="0" aria-label="Anzahl Platten"/></td>
+					<td class="unit" aria-hidden="true">Platte(n)</td>
+					<td><output id="material-out">?</output> €</td>
+				</tr>
+				<tr>
+					<td colspan="5">Preis</td>
+					<td><div class="grandtotal"><output id="total-out">?</output> €</div></td>
+				</tr>
+			</tbody>
+		</table>
+		<script>
+			function setOutput(outputId, value) {
+				const output = document.getElementById(outputId);
+
+				if (isNaN(value)) {
+					output.innerText = "?";
+					return value;
+				} else {
+					output.innerText = value.toFixed(2);
+					return value;
+				}
+			}
+		
+			function calculate(inputId, factor, outputId) {
+				const inputValue = parseFloat(document.getElementById(inputId).value);
+				return setOutput(
+					outputId,
+					Math.round(inputValue * factor * 100) / 100);
+			}
+
+			/// Computes and updates all reactive fields.
+			function updateTotals() {
+				let total = (
+					calculate("vorbereiten-in", 15, "vorbereiten-out")
+					+ calculate("konvertieren-in", 5, "konvertieren-out")
+					+ calculate("anpassen-in", 20, "anpassen-out")
+					+ calculate("tests-in", 20, "tests-out")
+					+ calculate("abschreibung-in", 0.5, "abschreibung-out")
+					+ calculate("abschreibung-in", 0.7, "wartung-out")
+				);
+
+				const rabatt = Math.round(total * parseFloat(document.getElementById("rabatt-in").value) * 100) / 100;
+				setOutput("rabatt-out", -rabatt);
+				total -= rabatt;
+				setOutput("zws-ohne-mat", total);
+
+				const materialFactor = parseFloat(document.getElementById("material-factor").value);
+				setOutput("material-preis", materialFactor);
+				total += calculate("material-in", materialFactor, "material-out");
+
+				setOutput("total-out", total);
+			}
+
+			// Initialize reactivity.
+			document.querySelectorAll("input, select").forEach(elem => elem.addEventListener("input", updateTotals));
+			// Initialize totals from currently selected/inputted values.
+			updateTotals();
+		</script>
+	</body>
+</html>
