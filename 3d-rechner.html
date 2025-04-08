@@ -11,7 +11,7 @@ SPDX-License-Identifier: Unlicense
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>3D-Druck Preisrechner fablab Cottbus e.V.</title>
+		<title>3D-Druck Preisrechner Fablab Cottbus e.V.</title>
 		<style>
 			body {
 				text-align: center;
@@ -57,10 +57,9 @@ SPDX-License-Identifier: Unlicense
 	<body>
 		<noscript>
 			Zum AusfÃ¼hren der Berechnungen wird JavaScript verwendet.
-			Wenn JavaScript nicht verfÃ¼gbar oder nicht aktiviert ist, kann dieser Rechner leider nicht verwendet werden.
+			Wenn JavaScript nicht verfügbar oder nicht aktiviert ist, kann dieser Rechner leider nicht verwendet werden.
 		</noscript>
-		<h1>3D-Druck Preisrechner</h1>
-		<h2>fablab Cottbus e.V.</h2>
+		<h2>3D-Druck Preisrechner Fablab Cottbus e.V.</h2>
 		<table>
 			<thead>
 				<tr>
@@ -72,49 +71,49 @@ SPDX-License-Identifier: Unlicense
 			</thead>
 			<tbody>
 				<tr>
-					<td><label for="vorbereiten-in">3D-Druck bewerten und fÃ¼r den Druck vorbereiten</label></td>
+					<td><label for="vorbereiten-in">3D-Druck bewerten und für den Druck vorbereiten</label></td>
 					<td>15.00</td>
-					<td class="unit" aria-label="Euro">â‚¬</td>
+					<td class="unit" aria-label="Euro">€</td>
 					<td><input type="number" id="vorbereiten-in" value="0" min="0" max="1" step="1"/></td>
 					<td class="unit"></td>
-					<td><output id="vorbereiten-out">?</output> â‚¬</td>
+					<td><output id="vorbereiten-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td><label for="konvertieren-in">Aus anderem Dateiformat konvertieren</label></td>
 					<td>5.00</td>
-					<td class="unit" aria-label="Euro">â‚¬</td>
+					<td class="unit" aria-label="Euro">€</td>
 					<td><input type="number" id="konvertieren-in" value="0" min="0" max="1" step="1"/></td>
 					<td class="unit"></td>
-					<td><output id="konvertieren-out">?</output> â‚¬</td>
+					<td><output id="konvertieren-out">?</output> €</td>
 				</tr>
 				<tr>
-					<td><label for="anpassen-in">Druck fÃ¼r Druckbarkeit anpassen (modifizieren, zerschneiden etc.)</label></td>
+					<td><label for="anpassen-in">Druck für Druckbarkeit anpassen (modifizieren, zerschneiden etc.)</label></td>
 					<td>20.00</td>
-					<td class="unit" aria-label="Euro pro Stunde">â‚¬/h</td>
+					<td class="unit" aria-label="Euro pro Stunde">€/h</td>
 					<td><input type="number" id="anpassen-in" value="0.0" min="0" step="0.1"/></td>
 					<td class="unit" aria-label="Stunden">h</td>
-					<td><output id="anpassen-out">?</output> â‚¬</td>
+					<td><output id="anpassen-out">?</output> €</td>
 				</tr>
 				<tr>
-					<td><label for="tests-in">Testdrucke zur Machbarkeit bzw. MaÃŸgenauigkeit</label></td>
+					<td><label for="tests-in">Testdrucke zur Machbarkeit bzw. Maßgenauigkeit</label></td>
 					<td>20.00</td>
-					<td class="unit" aria-label="Euro pro Stunde">â‚¬/h</td>
+					<td class="unit" aria-label="Euro pro Stunde">€/h</td>
 					<td><input type="number" id="tests-in" value="0.0" min="0" step="0.1"/></td>
 					<td class="unit" aria-label="Stunden">h</td>
-					<td><output id="tests-out">?</output> â‚¬</td>
+					<td><output id="tests-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td><label for="abschreibung-in">Abschreibung Drucker</label></td>
 					<td><output id="abschreibung-preis">1.50</output></td>
-					<td class="unit" aria-label="Euro pro Meter Filament">â‚¬/m</td>
+					<td class="unit" aria-label="Euro pro Meter Filament">€/m</td>
 					<td colspan="2" rowspan="2">siehe Materialkosten</td>
-					<td><output id="abschreibung-out">?</output> â‚¬</td>
+					<td><output id="abschreibung-out">?</output> €</td>
 				</tr>
 				<tr>
-					<td>Anteilige Wartungskosten (DÃ¼sen reinigen, Reperaturen, Ersatzteile)</td>
+					<td>Anteilige Wartungskosten (Düsen reinigen, Reperaturen, Ersatzteile)</td>
 					<td><output id="wartung-preis">2.00</output></td>
-					<td class="unit" aria-label="Euro pro Meter Filament">â‚¬/m</td>
-					<td><output id="wartung-out">?</output> â‚¬</td>
+					<td class="unit" aria-label="Euro pro Meter Filament">€/m</td>
+					<td><output id="wartung-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td><label for="rabatt-in">Rabatt</label></td>
@@ -123,14 +122,14 @@ SPDX-License-Identifier: Unlicense
 							<option selected value="0">keiner (kommerziell)</option>
 							<option value="0.25">Privatpersonen (-25 %)</option>
 							<option value="0.5">Sozialrabatt (-50 %)</option>
-							<option value="0.75">eigenstÃ¤ndig arbeitende Mitglieder (-75 %)</option>
+							<option value="0.75">eigenständig arbeitende Mitglieder (-75 %)</option>
 						</select>
 					</td>
-					<td><output id="rabatt-out">?</output> â‚¬</td>
+					<td><output id="rabatt-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td colspan="5">Zwischensumme ohne Material</td>
-					<td class="total"><output id="zws-ohne-mat">?</output> â‚¬</td>
+					<td class="total"><output id="zws-ohne-mat">?</output> €</td>
 				</tr>
 				<tr>
 					<td>
@@ -141,21 +140,21 @@ SPDX-License-Identifier: Unlicense
 						</select>
 					</td>
 					<td><output id="material-preis"></output></td>
-					<td class="unit" aria-label="Euro pro Meter">â‚¬/m</td>
+					<td class="unit" aria-label="Euro pro Meter">€/m</td>
 					<td><input type="number" id="material-in" value="1.0" min="0.1" step="0.1"/></td>
 					<td class="unit" aria-label="Meter">m</td>
-					<td><output id="material-out">?</output> â‚¬</td>
+					<td><output id="material-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td><label for="risiko-in">Risikozuschlag</label></td>
 					<td colspan="2"></td>
 					<td><input type="number" id="risiko-in" value="0" min="0" step="1"/></td>
 					<td class="unit">%</td>
-					<td><output id="risiko-out">?</output> â‚¬</td>
+					<td><output id="risiko-out">?</output> €</td>
 				</tr>
 				<tr>
 					<td colspan="5">Preis</td>
-					<td><div class="grandtotal"><output id="total-out">?</output> â‚¬</div></td>
+					<td><div class="grandtotal"><output id="total-out">?</output> €</div></td>
 				</tr>
 			</tbody>
 		</table>
