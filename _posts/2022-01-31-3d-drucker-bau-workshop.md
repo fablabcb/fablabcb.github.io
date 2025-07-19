@@ -22,4 +22,4 @@ Durch die Förderung des BMBF des Forschungsprojekts MoFab ist das Seminar für 
 
 **Meldet euch zur Anmeldung und bei Fragen bei Martin Koll unter mofab[aet]fablab-cottbus[.]de.**
 
-Wer vorher bereits ins Thema reinschnupperns will, derzeit startet die Reihe Lausitzer Tüftelseminare mit verschiedenen online-Workshops.[ Mehr Informationen hier auf der Seite des FabLabs Cottbus](https://fablab-cottbus.de/blog/lausitzer-tueftelseminare"). Am 17. Februar um 17 Uhr ist außerdem ein Vortrag in der[ Stadtbibliothek Guben](https://www.guben.de/images/downloads/aktuell/pressemeldungen/2022/220128_Buecherfruehling.pdf) unter dem Titel „3D-Druck im Überblick“.
+Wer vorher bereits ins Thema reinschnupperns will, derzeit startet die Reihe Lausitzer Tüftelseminare mit verschiedenen online-Workshops.[ Mehr Informationen hier auf der Seite des FabLabs Cottbus](https://fablab-cottbus.de/blog/lausitzer-tueftelseminare). Am 17. Februar um 17 Uhr ist außerdem ein Vortrag in der[ Stadtbibliothek Guben](https://www.guben.de/images/downloads/aktuell/pressemeldungen/2022/220128_Buecherfruehling.pdf) unter dem Titel „3D-Druck im Überblick“.
