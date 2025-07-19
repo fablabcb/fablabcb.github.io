@@ -2,12 +2,12 @@
 layout: post
 title: "Innovation durch Gemeinschaft - Workshop 'Strukturwandel in der Lausitz'"
 teaser: "Unsere Folien zum 2. Workshop 'Strukturwandel in der Lausitz - der VDI Berlin-Brandenburg bringt sich ein!'"
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/11/fablab_uebersicht_dark-1080x675.jpg
+teaser_img_src: /assets/img/blog/2017/11/fablab_uebersicht_dark-1080x675.jpg
 featured: false
 categories: Events
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/11/fablab_uebersicht_dark-1080x675.jpg
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/11/fablab_uebersicht_dark-1080x675.jpg
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/11/fablab_uebersicht_dark-1080x675.jpg
+twitter_large_img: /assets/img/blog/2017/11/fablab_uebersicht_dark-1080x675.jpg
+header_background: /assets/img/blog/2017/11/fablab_uebersicht_dark-1080x675.jpg
+image: /assets/img/blog/2017/11/fablab_uebersicht_dark-1080x675.jpg
 author: Maximilian Voigt
 
 ---

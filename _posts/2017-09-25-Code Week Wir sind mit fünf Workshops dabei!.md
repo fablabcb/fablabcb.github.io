@@ -2,12 +2,12 @@
 layout: post
 title: "Code Week: Wir sind mit 5 Workshops dabei"
 teaser: "Progammieren, Elektronik, Analyse - die EU Code Week im FabLabCB"
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
+teaser_img_src: /assets/img/blog/2017/09/meet-and-code.png
 featured: false
 categories: Events
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/09/meet-and-code.png
+twitter_large_img: /assets/img/blog/2017/09/meet-and-code.png
+header_background: /assets/img/blog/2017/09/meet-and-code.png
+image: /assets/img/blog/2017/09/meet-and-code.png
 author: Maximilian Voigt
 
 ---
@@ -27,9 +27,8 @@ Wir sind mit den folgenden Workshops bei der Code Week dabei:</p>
  - <strong style="color:red;">alle Workshops sind kostenlos, aber denkt an eure Laptops!</strong> Ihr seid älter als 24 Jahre?
  Kein Problem, wir finden für alle ein Plätzchen.</p>
 
-<p>Die Code Week ist eine Veranstaltungsreihe, die auf die Idee der Beratergruppe "Young Advisors" der früheren EU-Kommissarin 
+<p>Die Code Week ist eine Veranstaltungsreihe, die auf die Idee der Beratergruppe "Young Advisors" der früheren EU-Kommissarin
 für Digitale Agenda Neelie Kroes zurückgeht. Die Initiative <a href="https://meet-and-code.org/a" target="_blank" rel="noopener">Meet and Code</a> fördert Event-Projekte
- aller Art rund um das Thema Programmieren, die im Rahmen und während der EU Code Week veranstaltet werden. Weitere Workshops findet 
+ aller Art rund um das Thema Programmieren, die im Rahmen und während der EU Code Week veranstaltet werden. Weitere Workshops findet
 ihr auf der Seite der <a href="https://codeweek.eu/" target="_blank" rel="noopener">EU Code Week</a>. Wenn ihr im Raum Potsdam oder
  Lübbenau wohnt, sind vielleicht die Veranstaltungen der <a href="https://machbar-potsdam.de/?p=1754" rel="noopener" target="_blank">machBar Potsdam</a> oder der <a href="https://jfvnet.de/cleverinside/" rel="noopener" target="_blank">Technikschule</a> etwas für euch.</p>
-

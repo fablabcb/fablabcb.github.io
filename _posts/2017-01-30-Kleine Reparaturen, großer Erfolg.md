@@ -2,12 +2,12 @@
 layout: post
 title: "Kleine Reparaturen, großer Erfolg"
 teaser: ""
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+teaser_img_src: /assets/img/blog/2016/11/repairCafe_1.jpg
 featured: false
 categories: Projektnews
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/repairCafe_1.jpg
+twitter_large_img: /assets/img/blog/2016/11/repairCafe_1.jpg
+header_background: /assets/img/blog/2016/11/repairCafe_1.jpg
+image: /assets/img/blog/2016/11/repairCafe_1.jpg
 author: Maximilian Voigt
 
 ---
