@@ -2,12 +2,12 @@
 layout: post
 title: "Fab Labs: Marktplätze eines neuen Kapitalismus oder Commons basierte Revolution?"
 teaser: ""
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+teaser_img_src: /assets/img/blog/2016/11/Werkstatt3-1080x675.jpg
 featured: false
 categories: Bildung Diskurs
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2016/11/Werkstatt3-1080x675.jpg
+twitter_large_img: /assets/img/blog/2016/11/Werkstatt3-1080x675.jpg
+header_background: /assets/img/blog/2016/11/Werkstatt3-1080x675.jpg
+image: /assets/img/blog/2016/11/Werkstatt3-1080x675.jpg
 author: Maximilian Voigt
 
 ---

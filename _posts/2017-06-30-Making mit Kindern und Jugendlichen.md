@@ -2,12 +2,12 @@
 layout: post
 title: "Making mit Kindern und Jugendlichen"
 teaser: "Wie gelingt die Vermittlung von technischen Kompetenzen?"
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+teaser_img_src: /assets/img/blog/2017/06/bristle_bots.jpg
 featured: false
 categories: Bildung
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/06/bristle_bots.jpg
+twitter_large_img: /assets/img/blog/2017/06/bristle_bots.jpg
+header_background: /assets/img/blog/2017/06/bristle_bots.jpg
+image: /assets/img/blog/2017/06/bristle_bots.jpg
 author: Maximilian Voigt
 
 ---

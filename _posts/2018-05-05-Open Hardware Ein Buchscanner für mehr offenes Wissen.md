@@ -2,12 +2,12 @@
 layout: post
 title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
 teaser: "Auf dem Weg zu einem vollständigen Open Source Hardware-System "
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+teaser_img_src: /assets/img/blog/2018/05/buchscanner.png
 featured: false
 categories: Projektnews
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2018/05/buchscanner.png
+twitter_large_img: /assets/img/blog/2018/05/buchscanner.png
+header_background: /assets/img/blog/2018/05/buchscanner.png
+image: /assets/img/blog/2018/05/buchscanner.png
 author: Maximilian Voigt
 
 ---
@@ -21,8 +21,7 @@ Der geplante Scanner bewegt ein Buch mit der Innenseite nach unten über eine Sc
 
 Die Projektgruppe möchte die Dokumentation des mäqädat-Scanners vervollständigen und ihn zu einem vollständigen Open Source Hardware-System weiterentwickeln. Aktuell ist der einfache Nachbau des mäqädat nicht möglich. Neben einer lückenlosen Anleitung fehlen die Software für die Ansteuerung des Scanners sowie Konstruktionszeichnungen einiger Anbauteile.
 
-<strong>Mitmachen</strong> 
+<strong>Mitmachen</strong>
 Wer sich an dem Projekt beteiligen oder den aktuellen Stand verfolgen möchte, kann an den regelmäßigen <a href="https://hackmd.okfn.de/buchscanner_calldoku" rel="noopener" target="_blank">Calls zum Projekt</a> teilnehmen.
 Wir suchen z.B. Personen, die sich damit beschäftigen, wie man den Scanner aus Nutzersicht bedienen möchte.
 Für die <a href="https://github.com/fablabcb/openbookscanner" rel="noopener" target="_blank">Software</a> verwenden wir HTML/CSS/Javascript, Python 3 und C++. Beiträge sind auch hier willkommen.
-

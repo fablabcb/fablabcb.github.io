@@ -2,12 +2,12 @@
 layout: post
 title: "Das FabLab macht Schule"
 teaser: "Aus Restmaterialien oder neuen Produkten: Eine Musikbox mit erstklassigem Sound ist schnell gebaut - eine Anleitung."
-teaser_img_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
+teaser_img_src: /assets/img/blog/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
 featured: false
 categories: Bildung
-twitter_large_img: https://blog.fablab-cottbus.de/wp-content/uploads/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
-header_background: https://blog.fablab-cottbus.de/wp-content/uploads/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
-image: https://blog.fablab-cottbus.de/wp-content/uploads/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
+twitter_large_img: /assets/img/blog/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
+header_background: /assets/img/blog/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
+image: /assets/img/blog/2017/05/18056905_414528755579857_4643248526340792476_n-960x675.jpg
 author: Maximilian Voigt
 
 ---

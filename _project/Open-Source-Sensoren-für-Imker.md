@@ -9,7 +9,7 @@ content: ""
 link: 'https://easyhive.org/'
 contact-name: Ron Jakob
 contact-email: ron.martin.jacob@googlemail.com
-image_src: https://blog.fablab-cottbus.de/wp-content/uploads/2017/11/osbh.jpg
+image_src: /assets/img/blog/2017/11/osbh.jpg
 firstelement: 2
 homepage: true
 featured: false
