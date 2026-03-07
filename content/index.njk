@@ -1,0 +1,21 @@
+---js
+const eleventyNavigation = {
+	key: "Home",
+	order: 1
+};
+
+const numberOfLatestPostsToShow = 3;
+---
+<h1>Nächste Termine</h1>
+<ul>
+	{%- for event in events %}
+	<li>
+  	<strong>{{ event.name }}</strong><br>
+  	{{ event.starts_at }}
+	</li>
+	{%- endfor %}
+</ul>
+
+<h1>{{ opening_hours.fancy_title }}</h1>
+
+<p>{{ opening_hours.post_stream.posts[0].cooked | safe }}</p>
