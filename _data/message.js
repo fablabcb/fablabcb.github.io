@@ -3,6 +3,5 @@ export default async function() {
     "https://community.fablab-cottbus.de/t/website-ankuendigung/778.json"
   );
   const data = await res.json();
-  console.log(data)
   return data
 }
