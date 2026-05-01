@@ -13,7 +13,7 @@ header_background_caption: "Fahrradtreff im Fablab Cottbus"
 
 ---
 
-Am 16.05.2026 veranstalten wir von 10-15 Uhr einen Fahrradtreff bei uns im Fablab Cottbus. Es erwarten dich spannende Einblicke in die Welt der Fahrradtechnik! In einem **interaktiven Workshop** zeigen dir unsere ehrenamtlichen Fahrradmechaniker:innen, wie du dein Fahrrad selbst reparierst und wartest.
+Am 16.05.2026 veranstalten wir von 10-15 Uhr einen Fahrradtreff bei uns im Fablab Cottbus. Es erwarten dich spannende Einblicke in die Welt der Fahrradtechnik! In einem **interaktiven Workshop** zeigen dir unsere ehrenamtlichen Fahrradmechaniker:innen, wie du dein Fahrrad selbst reparierst und wartest. Der Großteil der Aktion findet unter freiem Himmel statt. Wir haben nur sehr eingeschränkt Zubehörteile bzw. Ersatzteile zur Verfügung. Wenn du Teile austauschen oder Neue montieren möchtest, bringe diese gerne mit.  
 
 **Highlights:**
 - **Übungsstation „Reifenpanne“**: Lerne Schritt für Schritt, wie du einen platten Schlauch flickst.
@@ -21,6 +21,6 @@ Am 16.05.2026 veranstalten wir von 10-15 Uhr einen Fahrradtreff bei uns im Fabla
 - **Gemütlicher Austausch**: Sitzgelegenheiten laden zum Verweilen ein – dazu gibt es Snacks und Getränke.
 
 **Du bist Fahrrad-Expert:in und möchtest dein Wissen teilen?**
-Dann melde dich bei der Organisation, die diesen Workshop anbietet. Die Kontaktdaten findest du weiter unten.
+Dann melde dich bei per info@fablab-cottbus.de
 
 Wir freuen uns auf euer Kommen!
