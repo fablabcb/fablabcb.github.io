@@ -3,16 +3,15 @@ import ogImage from "@/assets/og-image.png";
 export const siteConfig = {
   name: "FabLab Cottbus e.V.",
   description:
-    "Starter template optimized for SEO and performance. A solid foundation to start your projects with best practices.",
+    "Die Mitmachwerkstatt in Cottbus",
   url: "https://fablab-cottbus.de/",
   lang: "de",
   locale: "de_DE",
   author: "kr1sp1n",
-  twitter: "@Devgelo",
   ogImage: ogImage,
   socialLinks: {
     // twitter: "https://twitter.com",
-    github: "https://github.com/devgelo-labs/astro-starter-pro",
+    github: "https://github.com/fablabcb",
     // discord: "https://discord.com",
     community: "https://community.fablab-cottbus.de/",
   },
