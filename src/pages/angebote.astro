@@ -1,0 +1,69 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import ServiceList from "@/components/widgets/ServiceList.astro";
+import Content from "@/components/widgets/Content.astro";
+import Content2 from "@/components/widgets/Content2.astro";
+import webDevImg from "@/assets/images/services/web-dev.webp";
+import seoImg from "@/assets/images/services/seo.webp";
+import consultingImg from "@/assets/images/services/consulting.webp";
+
+// Parse HTML data from discourse:
+import * as cheerio from 'cheerio';
+
+// Fetch topics by tag:
+const res = await fetch(
+  "https://community.fablab-cottbus.de/tag/27.json"
+);
+const data = await res.json();
+
+// Fetch topic details:
+const topics = await Promise.all(data.topic_list.topics.map(async (t) => {
+  const res = await fetch(`https://community.fablab-cottbus.de/t/${t.id}.json`);
+  const json = await res.json();
+  return json.post_stream.posts[0]
+}))
+
+const services = topics.map((t) => {
+  // Parse meta data from topic:
+  const $ = cheerio.load(t.cooked);
+  const value = $("[data-topic-meta]").attr("data-topic-meta");
+  const meta = JSON.parse(value);
+  return {
+    index: meta.index,
+    title: meta.title,
+    icon: meta.icon,
+    description: meta.description,
+    content: t.cooked,
+    href: `#${encodeURIComponent(meta.title)}`,
+  }
+}).sort((a, b) => a.index - b.index)
+
+const metadata = {
+  title: "Angebote",
+  description:
+    "Discover our web development, SEO optimization, and technology consulting services.",
+};
+---
+
+<BaseLayout {metadata}>
+  <Content
+    tagline="Angebote"
+    title="Unsere Angebote"
+    description={[
+      "Comprehensive solutions designed to maximize the potential of your digital presence.",
+    ]}
+  />
+  <ServiceList services={services} classes={{ container: "pt-0 md:pt-0" }} />
+  {
+    services.map((s) => (
+      <Content
+        tagline={}
+        title={s.title}
+        description={[s.description]}
+        classes={{ container: "pb-0 md:pb-0" }}
+      >
+        <div class="text-left" set:html={s.content} />
+      </Content>
+    ))
+  }
+</BaseLayout>

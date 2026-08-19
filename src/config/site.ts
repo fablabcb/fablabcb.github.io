@@ -14,10 +14,13 @@ export const siteConfig = {
     // twitter: "https://twitter.com",
     github: "https://github.com/devgelo-labs/astro-starter-pro",
     // discord: "https://discord.com",
+    community: "https://community.fablab-cottbus.de/",
   },
   navLinks: [
     { text: "Home", href: "/" },
     // { text: "Services", href: "/services" },
+    { text: "Mitmachen", href: "/mitmachen" },
+    { text: "Angebote", href: "/angebote" },
     { text: "Blog", href: "/blog" },
     { text: "About", href: "/about" },
     // { text: "Contact", href: "/contact" },
