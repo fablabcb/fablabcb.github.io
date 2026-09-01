@@ -2,6 +2,8 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getImage } from "astro:assets";
 import Content2 from "@/components/widgets/Content2.astro";
+import Content from "@/components/widgets/Content.astro";
+import WidgetWrapper from "@/components/widgets/WidgetWrapper.astro";
 import Values from "@/components/widgets/Values.astro";
 import aboutImage from "@/assets/images/about-office.webp";
 
@@ -58,8 +60,10 @@ const data = await res.json();
 
 <BaseLayout {metadata}>
   <link slot="head" rel="preload" href={optimizedImage.src} as="image" />
-  <div set:html={data.post_stream.posts[0].cooked}></div>
-  <Content2
+  <WidgetWrapper>
+    <div set:html={data.post_stream.posts[0].cooked}></div>
+  </WidgetWrapper>
+<!--   <Content2
     title="Our Vision"
     description={[
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -82,12 +86,12 @@ const data = await res.json();
         icon: "lucide:arrow-right",
       },
     ]}
-  />
-  <Values
+  /> -->
+<!--   <Values
     items={values}
     columns={3}
     tagline="Our Values"
     title="What Defines Us"
     subtitle="Principles that guide our daily work"
-  />
+  /> -->
 </BaseLayout>

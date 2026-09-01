@@ -7,7 +7,7 @@ export const siteConfig = {
   url: "https://fablab-cottbus.de/",
   lang: "de",
   locale: "de_DE",
-  author: "kr1sp1n",
+  author: "FabLab Cottbus e.V.",
   ogImage: ogImage,
   socialLinks: {
     // twitter: "https://twitter.com",
@@ -17,7 +17,7 @@ export const siteConfig = {
   },
   navLinks: [
     { text: "Home", href: "/" },
-    // { text: "Services", href: "/services" },
+    { text: "Termine", href: "/termine" },
     { text: "Mitmachen", href: "/mitmachen" },
     { text: "Angebote", href: "/angebote" },
     { text: "Blog", href: "/blog" },

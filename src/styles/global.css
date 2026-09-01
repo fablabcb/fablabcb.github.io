@@ -72,3 +72,7 @@
     @apply text-xl font-bold text-foreground mb-2
   }
 }
+
+#main-content ul {
+  list-style: inside;
+}
