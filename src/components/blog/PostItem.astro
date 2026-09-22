@@ -10,7 +10,7 @@ const { post } = Astro.props;
 const { remarkPluginFrontmatter } = await render(post);
 
 const readingTime = remarkPluginFrontmatter?.minutesRead
-  ? `${Math.ceil(remarkPluginFrontmatter.minutesRead)} min read`
+  ? `${Math.ceil(remarkPluginFrontmatter.minutesRead)} min Lesezeit`
   : "";
 ---
 

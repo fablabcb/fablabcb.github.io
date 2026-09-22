@@ -1,10 +1,12 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import ServiceList from "@/components/widgets/ServiceList.astro";
 import { siteConfig } from "@/config/site";
 import Hero from "@/components/widgets/Hero.astro";
 import Features from "@/components/widgets/Features.astro";
 import devImg from "@/assets/images/dev_balanced.png";
 import openSourceImg from "@/assets/images/open-source.png";
+import Content from "@/components/widgets/Content.astro";
 import Content2 from "@/components/widgets/Content2.astro";
 const metadata = {
   title: `${siteConfig.name} — The next step for your project`,
@@ -12,6 +14,23 @@ const metadata = {
     "A modern and professional template for your web projects with Astro and Tailwind CSS. Boost your development with a solid foundation.",
   ignoreTitleTemplate: true,
 };
+
+// Fetch topics by tag:
+const res = await fetch(
+  "https://community.fablab-cottbus.de/tag/31.json"
+);
+const data = await res.json();
+
+// Fetch topic details:
+const topics = await Promise.all(data.topic_list.topics.map(async (t) => {
+  const res = await fetch(`https://community.fablab-cottbus.de/t/${t.id}.json`);
+  const json = await res.json();
+  return json.post_stream.posts[0]
+}))
+
+const services = topics.map((t) => {
+  console.log(t.fancy_title)
+})
 ---
 
 <BaseLayout {metadata}>
@@ -34,6 +53,19 @@ const metadata = {
       },
     ]}
   />
+<!--   <ServiceList services={services} classes={{ container: "pt-0 md:pt-0" }} />
+  {
+    services.map((s) => (
+      <Content
+        tagline={}
+        title={s.title}
+        description={[s.description]}
+        classes={{ container: "pb-0 md:pb-0" }}
+      >
+        <div class="text-left" set:html={s.content} />
+      </Content>
+    ))
+  } -->
   <!-- <Features
     tagline="Features"
     title="What's Included"
