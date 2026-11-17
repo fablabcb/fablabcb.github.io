@@ -76,3 +76,7 @@
 #main-content ul {
   list-style: inside;
 }
+
+#main-content a {
+  font-weight: bold;
+}

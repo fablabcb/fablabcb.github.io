@@ -1,5 +1,71 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import Content from "@/components/widgets/Content.astro";
+import WidgetWrapper from "@/components/widgets/WidgetWrapper.astro";
+
+const communityUrl = "https://community.fablab-cottbus.de"
+
+const res = await fetch(
+  `${communityUrl}/discourse-post-event/events.json`
+);
+
+
+
+const { events } = await res.json();
+
+const formatter = new Intl.DateTimeFormat("de-DE", {
+  dateStyle: "long",
+  timeStyle: "short",
+  timeZone: "Europe/Berlin",
+});
+
+const today = new Date()
+const threeMonthsLater = new Date(today);
+threeMonthsLater.setMonth(today.getMonth() + 3);
+
+let nextEvents = events
+  .flatMap((event) => {
+    // Wiederkehrende Events: occurrences verwenden
+    // Einzeltermine: starts_at und ends_at verwenden
+    const occurrences = event.occurrences?.length
+      ? event.occurrences
+      : [{
+          starts_at: event.starts_at,
+          ends_at: event.ends_at,
+        }];
+
+    return occurrences.map((occurrence: any) => ({
+      ...event,
+      starts_at: occurrence.starts_at,
+      ends_at: occurrence.ends_at,
+    }));
+  })
+  .filter((event: any) => {
+    const start = new Date(event.starts_at);
+    if (!event.name) event.name = event.post.topic.title
+    return start >= today && start <= threeMonthsLater;
+  })
+  .sort(
+    (a: any, b: any) =>
+      new Date(a.starts_at).getTime() -
+      new Date(b.starts_at).getTime()
+  );
+
 ---
 <BaseLayout>
+  <Content
+    tagline="Termine"
+    title="Unsere nächsten Events"
+    description={[]}
+  />
+  <WidgetWrapper>
+    {nextEvents.map((event) => (
+      <h4>{formatter.format(new Date(event.starts_at))}</h4>
+      <h3 style="margin-bottom: 1em;"><a href={`${communityUrl}/${event.post.url}`} target="_blank">{event.name}</a></h3>
+    ))}
+    <p style="margin-top: 2em;">
+      <a href="https://community.fablab-cottbus.de/upcoming-events" target="_blank">Weitere Termine</a>
+    </p>
+    
+  </WidgetWrapper>
 </BaseLayout>

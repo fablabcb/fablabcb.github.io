@@ -6,35 +6,35 @@ import webDevImg from "@/assets/images/services/web-dev.webp";
 import seoImg from "@/assets/images/services/seo.webp";
 import consultingImg from "@/assets/images/services/consulting.webp";
 
+import WidgetWrapper from "@/components/widgets/WidgetWrapper.astro";
+
 const metadata = {
   title: "Mitmachen",
   description:
     "Discover our web development, SEO optimization, and technology consulting services.",
 };
+
+const res = await fetch(
+  "https://community.fablab-cottbus.de/t/website-mitmachen/883.json"
+);
+const data = await res.json();
 ---
 
 <BaseLayout {metadata}>
-  <Content
+  <WidgetWrapper>
+    <div set:html={data.post_stream.posts[0].cooked}></div>
+  </WidgetWrapper>
+  <!-- <Content
     tagline="Mitmachen"
     title="Einfach mitmachen"
     description={[
-      "Hier steht ein schöner Text, wie man mitmachen kann.",
     ]}
-  />
-  <Content
-    tagline="Web Development"
-    title="Modern Web Development"
-    description={[
-      "We specialize in building fast, secure, and scalable websites using the latest technologies. We transform your vision into an impactful digital experience.",
-    ]}
-    classes={{ container: "pb-0 md:pb-0" }}
   />
   <Content2
     items={[
       {
         title: "Responsive Design",
-        description:
-          "Your site will look perfect on any device, from mobiles to desktop screens.",
+        description: data.post_stream.posts[0].cooked,
       },
       {
         title: "Optimized Performance",
@@ -105,5 +105,5 @@ const metadata = {
       and design personalized roadmaps to take your company to the next technological
       level.
     </Fragment>
-  </Content2>
+  </Content2> -->
 </BaseLayout>
